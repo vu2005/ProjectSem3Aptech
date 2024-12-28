@@ -1,0 +1,64 @@
+﻿<form method="post" action="@Url.Action("DeleteEmails", "Email")">
+    <div class="content-body">
+        <div class="row page-titles mx-0">
+            <div class="col p-md-0">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:void(0)">Apps</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript:void(0)">Email</a></li>
+                </ol>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="email-left-box">
+                                <a asp-action="Sent" asp-controller="Email" class="btn btn-primary btn-block">Compose</a>
+                                <div class="mail-list mt-4">
+                                    <a asp-action="Inbox" asp-controller="Email" class="list-group-item border-0 text-primary p-r-0">
+                                        <i class="fa fa-inbox font-18 align-middle mr-2"></i>
+                                        <b>Inbox</b>
+                                        <span class="badge badge-primary badge-sm float-right m-t-5">
+                                            @ViewData["EmailCount"]
+                                        </span>
+                                    </a>
+                                    <a asp-action="Sent" asp-controller="Email" class="list-group-item border-0 p-r-0">
+                                        <i class="fa fa-paper-plane font-18 align-middle mr-2"></i>Sent
+                                    </a>
+                                    <!-- Đã cập nhật để hành động xóa email đã chọn -->
+                                    <a asp-action="Trash" asp-controller="Email" class="list-group-item border-0 p-r-0">
+                                        <i class="fa fa-trash font-18 align-middle mr-2"></i>Trash
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="email-right-box">
+                                <div class="email-list m-t-15">
+                                    @foreach (var email in Model)
+                                    {
+                                        <div class="message">
+                                            <div class="col-mail col-mail-1">
+                                                <div class="email-checkbox">
+                                                    <input type="checkbox" name="emailIds" value="@email.MessageId" id="chk-@email.MessageId" />
+                                                    <label class="toggle" for="chk-@email.MessageId"></label>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-mail col-mail-2">
+                                                <a href="@Url.Action("Read", "Email", new { id = email.MessageId })">
+                                                    <div class="subject">@email.Subject</div>
+                                                    <div class="date">@email.Date.ToString("dd/MM/yyyy")</div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

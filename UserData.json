@@ -1,0 +1,21 @@
+{
+    "insurance_info_id": 0,
+    "customer_id": null,
+    "username": "nhuvu2k5",
+    "email": "vunnth2307024@fpt.edu.vn",
+    "phone": "0355342157",
+    "car_brand": "mec",
+    "vehicle_line": "Sedan",
+    "year_of_manufacture": "1234",
+    "registration_date": "2024-11-12T00:00:00",
+    "number_plate": "1",
+    "frame_number": "123",
+    "machine_number": "1",
+    "insurance_start_date": "2024-12-22T17:26:31.4627027+07:00",
+    "insurance_package": "Basic",
+    "insurance_code": null,
+    "insurance_price": 50.0,
+    "insurance_end_date": "2025-12-22T17:26:31.4627027+07:00",
+    "created_at": "2024-12-22T17:26:31.4627061+07:00",
+    "Customer": null
+}

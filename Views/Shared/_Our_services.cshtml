@@ -1,0 +1,51 @@
+@{
+    var services = ViewData["Services"] as List<CarInsuranceManage.Models.InsuranceService>;
+}
+
+<section class="services-section">
+    <div class="auto-container">
+        <!-- Tiêu đề -->
+        <div class="sec-title centered">
+            <div class="title">Our Services</div>
+            <h2>We ensure the best insurance services <br /> for our clients.</h2>
+        </div>
+        
+        <!-- Danh sách dịch vụ -->
+        <div class="inner-container">
+            <div class="three-item-carousel owl-carousel owl-theme">
+                @if (services != null && services.Any())
+                {
+                    @foreach (var service in services)
+                    {
+                        <div class="service-block">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a asp-controller="Insurance" asp-action="Car_Details" asp-route-id="@service.service_id">
+                                        <img src="~/@service.image_url" alt="@service.service_name" />
+                                    </a>
+                                </div>
+                                <div class="lower-content">
+                                    <h4>
+                                        <a asp-controller="Insurance" asp-action="Car_Details" asp-route-id="@service.service_id">
+                                            @service.service_name
+                                        </a>
+                                    </h4>
+                                    <div class="text">
+                                        @service.description
+                                    </div>
+                                    <a asp-controller="Insurance" asp-action="Car_Details" asp-route-id="@service.service_id" class="read-more">
+                                        Read More
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <p>No services available at the moment.</p>
+                }
+            </div>
+        </div>
+    </div>
+</section>

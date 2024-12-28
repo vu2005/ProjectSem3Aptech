@@ -1,0 +1,5 @@
+﻿@using System.Security.Claims
+@{
+    var userRole = Context.User.FindFirstValue(ClaimTypes.Role);
+    Layout = userRole == "admin" ? "_LayoutAdmin" : "_Layout";
+}

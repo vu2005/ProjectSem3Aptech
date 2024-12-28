@@ -1,0 +1,392 @@
+<div class="content-body">
+
+    <div class="row page-titles mx-0">
+        <div class="col p-md-0">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Dashboard</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">Home</a></li>
+            </ol>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="row">
+                        <div class="col-sm-6 col-lg-3">
+                            <div class="card-body card-widget">
+                                <div class="media">
+                                    <span class="card-widget__icon text-primary"><i class="icon-home"></i></span>
+                                    <div class="media-body">
+                                        <h2 class="card-widget__title">520</h2>
+                                        <h5 class="card-widget__subtitle">Revenue</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-lg-3 border-left">
+                            <div class="card-body card-widget">
+                                <div class="media">
+                                    <span class="card-widget__icon text-warning"><i class="icon-tag"></i></span>
+                                    <div class="media-body">
+                                        <h2 class="card-widget__title">720</h2>
+                                        <h5 class="card-widget__subtitle">Conversion Rate</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-lg-3 border-left">
+                            <div class="card-body card-widget">
+                                <div class="media">
+                                    <span class="card-widget__icon text-success"><i class="icon-emotsmile"></i></span>
+                                    <div class="media-body">
+                                        <h2 class="card-widget__title">1002</h2>
+                                        <h5 class="card-widget__subtitle">Transactions</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-lg-3 border-left">
+                            <div class="card-body card-widget">
+                                <div class="media">
+                                    <span class="card-widget__icon text-info"><i class="icon-ghost"></i></span>
+                                    <div class="media-body">
+                                        <h2 class="card-widget__title">420</h2>
+                                        <h5 class="card-widget__subtitle">Purchases</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Lifetime Sales</h4>
+                        <div id="morris-donut-chart"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Income Analysis</h4>
+                        <div id="extra-area-chart"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Yearly Sales Report</h4>
+                        <div id="morris-bar-chart__2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="active-member">
+                            <div class="table-responsive">
+                                <table class="table table-xs">
+                                    <thead>
+                                        <tr>
+                                            <th>Top Active Members</th>
+                                            <th>Views</th>
+                                            <th>Country</th>
+                                            <th>Status</th>
+                                            <th>Comments</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/1.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>125</span>
+                                            </td>
+                                            <td>United States</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>84</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/2.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>547</span>
+                                            </td>
+                                            <td>Canada</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>36</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/3.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>557</span>
+                                            </td>
+                                            <td>Germany</td>
+                                            <td><i class="fa fa-circle-o text-danger  mr-2"></i> Inactive</td>
+                                            <td><span>55</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/4.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>753</span>
+                                            </td>
+                                            <td>England</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>45</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/5.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>453</span>
+                                            </td>
+                                            <td>China</td>
+                                            <td><i class="fa fa-circle-o text-danger  mr-2"></i> Inactive</td>
+                                            <td><span>63</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/6.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>658</span>
+                                            </td>
+                                            <td>Japan</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>38</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="active-member">
+                            <div class="table-responsive">
+                                <table class="table table-xs">
+                                    <thead>
+                                        <tr>
+                                            <th>Top Active Members</th>
+                                            <th>Views</th>
+                                            <th>Country</th>
+                                            <th>Status</th>
+                                            <th>Comments</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/1.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>125</span>
+                                            </td>
+                                            <td>United States</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>84</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/2.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>547</span>
+                                            </td>
+                                            <td>Canada</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>36</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/3.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>557</span>
+                                            </td>
+                                            <td>Germany</td>
+                                            <td><i class="fa fa-circle-o text-danger  mr-2"></i> Inactive</td>
+                                            <td><span>55</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/4.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>753</span>
+                                            </td>
+                                            <td>England</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>45</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/5.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>453</span>
+                                            </td>
+                                            <td>China</td>
+                                            <td><i class="fa fa-circle-o text-danger  mr-2"></i> Inactive</td>
+                                            <td><span>63</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <img src="~/admin-assets/images/avatar/6.jpg"
+                                                    class=" rounded-circle mr-2" alt="">Arden
+                                                Karn
+                                            </td>
+                                            <td><span>658</span>
+                                            </td>
+                                            <td>Japan</td>
+                                            <td><i class="fa fa-circle-o text-success  mr-2"></i> Active</td>
+                                            <td><span>38</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-body d-flex justify-content-between">
+                        <div class="content">
+                            <h5 class="card-title">Sales</h5>
+                            <h3>52,345</h3>
+                            <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+                            <a href="#" class="text-success">Learn more</a>
+                        </div>
+                        <div class="chart">
+                            <canvas id="monthly_view_chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-body px-0">
+                        <h4 class="card-title px-4 mb-3">Todo</h4>
+                        <div class="todo-list">
+                            <div class="tdl-holder">
+                                <div class="tdl-content">
+                                    <ul id="todo_list">
+                                        <li><label><input type="checkbox"><i></i><span>Get up</span><a href='#'
+                                                    class="ti-trash"></a></label></li>
+                                        <li><label><input type="checkbox" checked><i></i><span>Stand up</span><a
+                                                    href='#' class="ti-trash"></a></label></li>
+                                        <li><label><input type="checkbox"><i></i><span>Don't give up the fight.</span><a
+                                                    href='#' class="ti-trash"></a></label></li>
+                                        <li><label><input type="checkbox" checked><i></i><span>Do something
+                                                    else</span><a href='#' class="ti-trash"></a></label></li>
+                                    </ul>
+                                </div>
+                                <div class="px-4">
+                                    <input type="text" class="tdl-new form-control"
+                                        placeholder="Write new item and hit 'Enter'...">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @model List<CarInsuranceManage.Models.Comment>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Customer Comments</h4>
+                        <div id="activity">
+                            @if (Model != null && Model.Any())
+                            {
+                                @foreach (var comment in Model)
+                                {
+                                    <div class="media border-bottom pt-3 pb-3">
+                                        <img width="35" src="~/admin-assets/images/avatar/1.jpg" class="mr-3 rounded-circle"
+                                            alt="User Avatar">
+                                        <div class="media-body">
+                                            <h6>@comment.Customer.User?.username</h6>
+                                            <p class="mb-0">@comment.comment_text</p>
+                                        </div>
+                                        <span class="text-muted">@comment.created_at.ToString("MMM dd, yyyy")</span>
+                                    </div>
+                                }
+                            }
+                            else
+                            {
+                                <div class="media border-bottom pt-3 pb-3">
+                                    <p>No comments available.</p>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Messages</h4>
+                        <div id="message_wrapper">
+                            <div class="media pt-3">
+                                <img width="40" src="~/admin-assets/images/avatar/3.jpg" class="mr-3 rounded-circle">
+                                <div class="media-body">
+                                    <h6>John Tomas</h6>
+                                    <p class="m-b-0">I shared this on my fb wall a few months back,</p>
+                                </div><span class="text-muted ">April 24, 2018</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

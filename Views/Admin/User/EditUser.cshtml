@@ -1,0 +1,59 @@
+@model CarInsuranceManage.Models.User
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="content-body">
+    <div class="container mt-5">
+        <form asp-action="EditUser" method="post">
+            <input type="hidden" asp-for="user_id" />
+            <div class="row g-3">
+                <!-- Column 1 -->
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="username" class="form-label">User Name</label>
+                        <input required type="text" class="form-control" id="username" asp-for="username" placeholder="Enter value">
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input required type="password" class="form-control" id="password" asp-for="password" placeholder="Enter value">
+                    </div>
+                    <div class="mb-3">
+                        <label for="full_name" class="form-label">Full Name</label>
+                        <input required type="text" class="form-control" id="full_name" asp-for="full_name" placeholder="Enter value">
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input required type="email" class="form-control" id="email" asp-for="email" placeholder="Enter value">
+                    </div>
+                </div>
+
+                <!-- Column 2 -->
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label for="phone_number" class="form-label">Phone</label>
+                        <input required type="text" class="form-control" id="phone_number" asp-for="phone_number" placeholder="Enter value">
+                    </div>
+                    <div class="mb-3">
+                        <label for="address" class="form-label">Address</label>
+                        <input required type="text" class="form-control" id="address" asp-for="address" placeholder="Enter value">
+                    </div>
+                    <div class="mb-3">
+                        <label for="user_logs" class="form-label">User Logs</label>
+                        <input required type="text" class="form-control" id="user_logs" asp-for="user_logs" placeholder="Enter value">
+                    </div>
+                    <div class="mb-3">
+                        <label for="role" class="form-label">Role</label>
+                        <select required class="form-control" id="role" asp-for="role">
+                            <option value="Admin">admin</option>
+                            <option value="User">user</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary mt-3">Submit</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+<section class="cta-section">
+  <div class="auto-container">
+    <div class="inner-container"
+      style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-5.png")')">
+      <div class="row clearfix">
+        <!-- Title Column -->
+        <div class="title-column col-lg-5 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <h3>Let us take care about your veicle</h3>
+          </div>
+        </div>
+
+        <!-- Form Column -->
+        <div class="form-column col-lg-7 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="newsletter-form">
+              @if (TempData["MessageSendMail"] != null)
+              {
+                <div class="alert alert-success mt-3">
+                  @TempData["MessageSendMail"]
+                </div>
+              }
+              <form method="post" asp-action="SendMail" asp-controller="Suport">
+                <div class="form-group">
+                  <span class="icon fa fa-envelope"></span>
+                  <input type="email" name="email" value="" placeholder="Enter your mail" required="" />
+                  <button type="submit" class="theme-btn flaticon-send"></button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

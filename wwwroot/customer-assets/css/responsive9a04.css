@@ -1,0 +1,1066 @@
+@media (min-width: 992px) and (max-width: 1440px) {
+	
+}
+@media (min-width: 992px) {
+	.search_box .form-navbar:before{
+        display: none;
+    }
+    .search_box .form-navbar .form-control{
+        width: 100%;
+        height: 2.3rem;
+        border: 1px solid #f0f0f0!important;
+        padding-left: 0.75rem;
+    }
+    .box_textarea_bv{
+        padding-left:2.3rem!important;
+    }
+    .icon_calenda{
+        top:1.15rem
+    }
+}
+@media (max-width: 991px) {
+    .htdv_all_tabs .container,.htdv_all_tabs.set_w .container{
+        width: 100%;
+        max-width: 100%;
+    }
+	.banner_regist{
+		border-radius: 0;
+		top: 0.84375rem;
+		background-color: #f5f5f5;
+	}
+	.cont_all .breadcrumb{
+		padding: 0 0.67rem;
+	}
+	.form_div{
+		width: calc(100% - 1.33rem);
+		margin: 5.8rem 0.67rem 0;
+		padding: 2.5rem 0.67rem;
+	}
+	.form_cont{
+		max-width: 100%;
+	}
+	/* .cont_all .breadcrumb-item {
+		display: none;
+	}
+	.cont_all .breadcrumb-item.active {
+		display: block;
+		padding-left: 0;
+	}
+	.cont_all .breadcrumb-item+.breadcrumb-item::before {
+		content: '\f104';
+		font-family: "Font Awesome 5 Pro";
+	} */
+	.cont_all {
+        padding: 1rem 0 2.5rem;
+    }
+    .cont_regist {
+        padding-top: 0.84375rem;
+    }
+    .step_txt {
+    	max-width: 3.8rem;
+    	margin: 0 auto;
+    }
+    .btn_white,.btn_web{
+    	font-size: 0.8125em;
+    }
+    .txt_warning{
+    	font-size: 0.75rem;
+    }
+    .text_line,.regist_ques{
+    	font-size: 0.75em;
+    }
+    .regist_ques a{
+    	font-size: 1.1em;
+    }
+    .rules_pass {
+    	font-size: 0.6875em;
+    }
+    .f14px{
+    	font-size: 0.8125rem;
+    }
+    .forgot_pass small{
+    	font-size: 0.6875em;
+    }
+    .creat_acc {
+    	font-size: 0.8125em;
+    }
+    .btn_web{
+    	height: 2.3rem;
+    }
+    .age_label{
+    	font-size: 0.8125rem;
+    }
+    .page_list .container{
+    	padding: 0 0.625rem;
+    }
+    .page_list_slider{
+        height: 14.06rem;
+    }
+    .img_slider img {
+        height: 14.06rem;
+    }
+    .slider_info {
+    	top: 3.21875rem;
+    	left: 1.5625rem;
+    	width: 11.8125rem;
+    }
+    .style_slider .slick-prev {
+    	left: 1.5625rem;
+    }
+    .custom_paging {
+    	left: 2.5rem;
+    }
+    .style_slider .slick-next {
+    	left: 5.4rem;
+    }
+    .slider_tt{
+    	font-size: 1.1em;
+    }
+    .slider_info .btn_web{
+    	padding: 0 1.5rem;
+    }
+    .menu_cat_pc{
+    	display: block!important;
+    }
+    .div_category .menu_cat.category_fixed{
+    	top:3.125rem
+    }
+    .div_category .menu_cat.category_fixed{
+     	padding: 0 0.625rem;
+    }
+    .menu_cat>.btn_web{
+    	width: 100%;
+    	margin: 0.5rem 0;
+    }
+    .menu_cat .menu_cat_mb{
+    	width: 100%;
+    }
+    .menu_cat_mb{
+    	flex-wrap: nowrap;
+    	overflow-x: auto;
+    	text-align: center;
+    	white-space: nowrap;
+    	justify-content: start!important;
+    }
+    .menu_cat_mb .btn_web{
+    	margin: 0.5rem;
+    	min-width: 5rem;
+    	width: max-content;
+    	min-width: max-content;
+    }
+    .icon_tag{
+    	left: -2.5rem;
+    }
+    .list_item_cont{
+    	height: auto;
+    	min-height: auto;
+    	display: block;
+    	overflow: visible;
+    }
+    .list_item_cont .item {
+    	flex: auto;
+    	max-width: 13.8125rem!important;
+    	width: 13.8125rem!important;
+        padding: 1rem 0.5rem !important;
+    }
+    
+    .list_item_cont .slick-list{
+    	padding: 0!important;
+    }
+    .list_item_cont .slick-dots{
+    	bottom: -1.5rem;
+    }
+    .list_item_cont .slick-dots li {
+    	width: 6px;
+    	height: 6px;
+    	border-radius: 50%;
+    	background-color: rgb(230, 230, 230);
+    	margin: 0 .25rem;
+    }
+    .list_item_cont .slick-dots li.slick-active {
+    	background-image: -moz-linear-gradient( 0deg, rgb(0,91,170) 0%, rgb(0,148,218) 100%);
+    	background-image: -webkit-linear-gradient( 0deg, rgb(0,91,170) 0%, rgb(0,148,218) 100%);
+    	background-image: -ms-linear-gradient( 0deg, rgb(0,91,170) 0%, rgb(0,148,218) 100%);
+    }
+    .list_item_cont .slick-dots li button:before{
+    	display: none;
+    }
+    .item_img img{
+    	height: 6.875rem!important;
+    }
+    .item_tt {
+        font-size: 0.8em!important;
+    }
+    .counseling{
+    	padding: 1rem 0.5rem;
+    }
+    .counseling_link{
+    	display: block!important;
+    	padding: 1.3rem 0;
+    	width: 11rem;
+    }
+    .counseling_link .btn_web{
+    	width: 11rem;
+    	min-width: 11rem;
+    }
+    .counseling_link .btn_web span {
+    	margin: 0 1rem;
+    }
+    .counseling_link_txt{
+    	margin-left: 0;
+    	font-size: 0.75rem;
+    	margin-top: 1rem;
+    }
+    .counseling_link_txt a{
+    	margin-bottom: 0.5rem;
+    	display: block;
+    }
+    .counseling_circle{
+    	width: 10.62rem;
+    	height: 10.62rem;
+    	top: auto;
+    	right: -1.5rem;
+    	bottom: -1.5rem;
+    	transform: translate(0);
+    }
+    .counseling_circle img{
+    	width: 8rem;
+    	height: 8rem;
+    }
+    .item_des {
+    	height: 3.5rem;
+    }
+    /* Khai báo */
+    .menu_tab_cus{
+    	padding: 1rem 0 10px;
+    	flex-wrap: nowrap;
+    	overflow-x: auto;
+    	text-align: center;
+    	white-space: nowrap;
+    	justify-content: start!important;
+    }
+    .menu_tab_cus li{
+    	width: 9rem;
+    	white-space: initial;
+    	text-align: left;
+    }
+    .menu_tab_cus li a{
+    	width: 9rem;
+    	height: 100%;
+    }
+    .menu_tab_cus li a:after{
+    	bottom: -10px;
+    }
+    .kb_content {
+    	padding: 1.5rem 0;
+    }
+    .kb_content .card {
+    	padding: 0 1rem;
+    }
+    .kb_content .form-label-group {
+    	max-width: 100%;
+    }
+    .width_auto span {
+    	margin: 0 2.5rem;
+    }
+    .card-body .btn_web{
+    	margin: 0 auto;
+    }
+    .kb_btn_group .btn_web span{
+    	margin: 0 2.5rem;
+    }
+    .kb_tt{
+    	font-size: 0.85em;
+    }
+    .info_success .row_info>span {
+    	min-width: 8rem!important;
+    	width: 8rem!important;
+    	vertical-align: top;
+    }
+    .card.kb_done .card-header .edit_cus span{
+    	display: none;
+    }
+    .edit_cus .img{
+    	width: 0.9rem;
+    }
+    .khaibao .card-body .custom-control-style .custom-checkbox .custom-control-label::before,.khaibao .card-body .custom-control-style .custom-checkbox .custom-control-label::after{
+    	top: 0;
+    	transform: translate(0);
+    }
+    .icon_calenda{
+    	width: 0.9rem;
+    }
+    .ques_option{
+    	padding: 0.8rem;
+    }
+    .ques_option_dt{
+    	padding: 1rem 0.5rem;
+        margin-top: 0.8rem;
+    }
+    .check_radio .custom-control-style:last-child{
+    	margin-left: 2rem!important;
+    }
+    .check_radio .custom-control-style:first-child{
+        margin-left: 0!important;
+    }
+    .kb_content .card.kb_done .card-header{
+    	padding-right: 1rem;
+    }
+    .step_final {
+    	padding: 1.5rem 0.8rem 0;
+    }
+    .step_regist{
+    	flex-wrap: nowrap;
+    	text-align: center;
+    	white-space: nowrap;
+    	overflow-y: hidden;
+    }
+    .step_regist li{
+    	width: calc(100%/3);
+    	min-width: calc(100%/3);
+    }
+    .pay_tbl_head{
+    	display: none;
+    }
+    .pay_head {
+    	padding: 1rem 0.8rem 0.5rem;
+    }
+    .pay_tbl_body{
+    	padding: 0 0.8rem;
+    }
+    .pay_tbl_body .pay_row{
+    	display: block;
+    	border: 1px solid #018ad1!important;
+    	border-radius: 0.3rem;
+    	padding: 0.8rem;
+    	margin-bottom: 0.5rem;
+    }
+    .pay_col{
+    	width: 100%!important;
+    }
+    .pay_div_title .edit_cus{
+    	display: block;
+    }
+    .pay_detail_txt>div span{
+    	display: inline-block;
+    	min-width: 8.5rem;
+    	margin-bottom: 0;
+    }
+    .f12px{
+    	font-size: 0.7em;
+    }
+    .pay_detail_txt>div {
+    	padding: 0.3rem 0;
+    }
+    .pay_col{
+    	padding: 0.3rem 0;
+    }
+    .pay_stt{
+    	display: none;
+    }
+    .pay_check{
+    	position: absolute;
+    	bottom: 1rem;
+    	left: 0.8rem;
+    	width: auto!important;
+    }
+    .pay_div_title h2{
+    	border-bottom: 1px solid #d7d7d7;
+    	margin-bottom: 5px;
+    	padding-bottom: 5px;
+    }
+    .pay_name{
+    	border-bottom: 1px solid #d7d7d7;
+    	margin-bottom: 5px;
+    	padding-bottom: 5px;
+    }
+    .pay_price,.pay_promo,.pay_total{
+    	position: relative;
+    	padding-left: 8rem;
+    	text-align: right;
+    }
+    .pay_price .f14px,.pay_promo .f14px,.pay_total .f14px{
+    	font-weight: bold;
+    }
+    .pay_col:before{
+    	content: attr(data-text);
+    	position: absolute;
+    	left: 0;
+    	top: 0.4rem;
+    	width: 8.5rem;
+    	font-size: 0.7em;
+    	text-align: left;
+    }
+    .pay_code_promo{
+    	justify-content: flex-end;
+    }
+    .pay_edit .d-flex{
+    	justify-content: flex-end;
+    }
+    .pay_edit{
+    	border-top: 1px solid #d7d7d7;
+    	margin-top: 0.5rem;
+    	padding-top: 0.5rem;
+    }
+    .pay_edit .d-flex .ml-auto{
+    	margin-left: 1rem!important;
+    }
+    .thanhtoan .custom-control-style .custom-control .custom-control-input:checked ~ .custom-control-label::after{
+    	border: 1px solid #018ad1;
+    }
+    .payment_onl {
+    	padding: 0 0.8rem 2rem;
+    }
+    .payment_onl .check_radio .custom-control-style{
+    	margin-left: 0!important;
+    }
+    .payment_onl .custom-control-style .custom-control-label::before,.payment_onl .custom-control-style .custom-control-label::after{
+    	top: 0.6rem;
+    	transform: translate(0);
+    }
+    .print_gtgt {
+    	padding: 1rem 0.8rem;
+    }
+    .print_gtgt .ques_option .form-label-group {
+    	max-width: 100%;
+    }
+    .payment_onl .custom-control-style .custom-control-label{
+    	padding-left: 5rem;
+    	font-size: 0.75em;
+    	padding-top: 0.6rem;
+    	padding-bottom: 0.5rem;
+    }
+    .payment_onl .custom-control-style .custom-control-label.set_pl_mb{
+        padding-left: 1.875em;
+    }
+    .payment_onl .custom-control-style .custom-control-label span{
+    	
+    }
+    .payment_onl .custom-control-style .custom-control-label img{
+    	position: absolute;
+    	top: 5px;
+    	left: 1.5rem;
+    	max-width: 3.2rem;
+    }
+    .payment_onl .pay_tragop .custom-control-style .custom-control-label img {
+        top: 50%;
+        transform: translate(0,-50%);
+    }
+    .payment_onl .pay_momo .custom-control-style .custom-control-label{
+    	padding-top: 0.3rem;
+    }
+    .payment_onl .pay_momo .custom-control-style .custom-control-label img{
+    	left: 1.9rem;
+    	top: 3px;
+    }
+    .thanhtoan_empty {
+    	padding: 0 0.8rem;
+    }
+    .tuvan_empty{
+    	padding: 1.5rem 0.8rem 0;
+    }
+    .tuvan_empty .counseling_link{
+    	padding-bottom: 0;
+    }
+    .before_none:before{
+    	display: none!important;
+    	padding-left: 0!important;
+    }
+    .thanhtoan_empty,.tuvan_empty{
+    	text-align: center;
+    }
+    .thanhtoan_empty .mb_center,.tuvan_empty .mb_center{
+    	justify-content: center;
+    	margin: 0 auto;
+    }
+    .popup_web{
+    	max-width: 95%!important;
+    	width: 95%!important;
+    }
+    .ht_item {
+    	padding: 0 0.8rem;
+    }
+    .ht_item .f14px{
+        position: relative;
+    }
+    .item_dg{
+    	height: auto;
+    	padding: 1rem 0.8rem;
+    	flex-wrap: wrap;
+    }
+    .icon_like{
+    	left: 0.8rem;
+    }
+    .item_dg_txt {
+    	padding-left: 3.5rem;
+    	width: 100%;
+    }
+    .item_dg .btn_web{
+    	margin-left: 3.5rem!important;
+    	margin-top: 1rem;
+    }
+    .ht_social {
+    	padding: 1.5rem 0.8rem;
+    }
+    .ht_title {
+    	padding: 1.5rem 0.8rem 3rem;
+    }
+    .ht_avt{
+    	right: 0.8rem;
+    	width: 8rem;
+    }
+    .ht_title .item{
+    	padding-right: 7rem;
+    }
+    .cart_total{
+    	padding: 1.5rem 0.8rem;
+    }
+    .ht_total{
+    	padding: 0.8rem;
+    	height: auto;
+    	flex-wrap: wrap;
+    }
+    .cart_total_dt {
+    	text-align: left;
+    	font-size: 0.9em;
+    	width: 100%;
+    	margin-top: 0.5rem;
+    }
+    .form_div.div_hoantat{
+    	background: linear-gradient(90deg, #e5eef6 0%, #e5f0f8 30%, #e5f2fa 60%, #e5f4fb 100%);
+    }
+    .div_hoantat_regist{
+    	position: relative;
+    	top: auto;
+    	left: auto;
+    	width: 100%;
+    }
+    .cont_profile{
+    	flex-wrap: wrap;
+    	padding: 1.5rem 0.8rem 0;
+    }
+    .profile_mb .cont_profile{
+    	padding-top: 0;
+    }
+    .profile_info{
+    	width: 100%;
+    }
+    .profile_user{
+    	text-align: left;
+    	position: relative;
+    	padding-left: 6rem;
+    }
+    .pf_avt{
+    	width: 5rem;
+    	height: 5rem;
+    	position: absolute;
+    	top: 50%;
+    	left: 0.5rem;
+    	transform: translate(0,-50%);
+    }
+    .pf_item .pf_num{
+        display: none;
+    }
+    .profile_tool{
+    	display: flex;
+    	flex-wrap: wrap;
+    	padding: 1rem 0;
+    }
+    .profile_tool .pf_item {
+    	width: calc(100%/3);
+    	flex-wrap: wrap;
+    	text-align: center;
+    	padding: 0.8rem 0.5rem;
+    }
+    .profile_tool .icon_pf{
+    	width: 3.75rem;
+    	height: 3.75rem;
+    	border-radius: 100%;
+    	-webkit-box-shadow: 0px 9px 18px 0px rgba(231,240,247,1);
+    	-moz-box-shadow: 0px 9px 18px 0px rgba(231,240,247,1);
+    	box-shadow: 0px 9px 18px 0px rgba(231,240,247,1);
+    	background-color: #fff;
+    	margin: 0 auto 1rem;
+    	border: 1px solid rgba(231,240,247,0.5);
+    	justify-content: center;
+    }
+    .profile_tool .pf_item span{
+    	font-weight: bold;
+    	color: #005cab!important;
+    }
+    .profile_content {
+    	width: 100%;
+    	padding: 1.5rem 0;
+    }
+    .pf_detail_head{
+    	text-align: center;
+    }
+    .profile_content .btn_web.width_auto{
+    	left: 50%;
+    	transform: translate(-50%,0);
+    	position: relative;
+    }
+    .pf_detail .edit_cus{
+    	position: relative;
+    	top: auto;
+    	right: auto;
+    }
+    .profile_mb .banner_regist{
+    	position: relative;
+    	top: auto;
+    	left: auto;
+    }
+    .mb-center{
+    	text-align: center;
+    	max-width: 100%;
+    }
+    .pf_promo .item {
+    	width: 20rem;
+    	height: 6.6rem;
+    	margin: 0.2rem auto;
+    }
+    .pf_promo_tool {
+    	width: 6.5rem;
+    	left: 12.6rem;
+    }
+    .pf_promo_info {
+    	width: 9.5rem;
+    }
+    .promo_used .pf_promo_tool {
+    	left: 12.3rem;
+    }
+    .pp_pro_content_dt a.f14px{
+    	margin-top: 1rem;
+    }
+    .item_card{
+    	margin-bottom: 1.5rem;
+    	width: 20rem;
+    	height: 11rem;
+    	box-shadow: none;
+        font-size:4.662004662004662vw;
+    }
+    .info_card .f14px.text-uppercase{
+    	font-size: 0.85em;
+    	margin-top: 0.2rem;
+    }
+    .info_card .f14px{
+    	/*font-size: 0.75em;*/
+        padding-left:4.2rem;
+    }
+    .info_card .f14px span{
+        width:4.2rem;
+    }
+    .pf_history.search_bh .col_item {
+    	-ms-flex: 0 0 100%;
+    	flex: 0 0 100%;
+    	max-width: 100%;
+    }
+    .pf_history.search_bh .col_item.col_last {
+    	-ms-flex: 0 0 100%;
+    	flex: 0 0 100%;
+    	max-width: 100%;
+    	display: flex;
+    }
+    .btn_his{
+    	margin: 1rem auto 0!important;
+    }
+    .tbl_his_head{
+    	display: none;
+    }
+    .tbl_row{
+    	flex-wrap: wrap;
+    }
+    .tbl_col{
+    	width: 100%!important;
+    	padding: 0.5rem 0!important;
+        position: relative;
+        padding-left: 8.5rem!important;
+    }
+    .tbl_col:before{
+    	content: attr(data-text);
+    	color: #000;
+    	width: 8rem;
+    	display: inline-block;
+        position: absolute;
+        top: 0.5rem;
+        left: 0;
+    }
+    .profile_content .mb_center .btn_web.width_auto {
+    	left: auto;
+    	transform: translate(0);
+    	position: relative;
+    }
+    .pf_detail_body .form_div{
+    	margin: 0 auto!important;
+    	width: 100%;
+    }
+    .rangcua {
+    	top: -9px;
+    }
+    .nsp_select {
+    	background-position: right .9rem top 50%;
+    }
+    /* Xe máy */
+    .khaibao_xemay .menu_tab_cus li a,.khaibao_oto .menu_tab_cus li a,.khaibao_dl .menu_tab_cus li a{
+    	width: 100%;
+    }
+    .khaibao_dl .ques_option {
+    	padding: 1.2rem 0.8rem 0.4rem;
+    }
+    .new_content{
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+    }
+    .list_item .item{
+        flex-wrap: wrap;
+        background-color: #fff;
+        border-radius: 0.3rem;
+        box-shadow: 0px 5px 9px 1px rgba(0, 0, 0, 0.06), 0px 0px 0px 1px rgb(242, 242, 242, 0.2);
+    }
+    .page_list .list_item .item{
+        box-shadow: none;
+    }
+    .list_item_img{
+        width: 100%!important;
+        height: auto!important;
+        border-top-right-radius: 0.3rem!important;
+        border-top-left-radius: 0.3rem!important;
+        border-bottom-right-radius: 0!important;
+        border-bottom-right-radius: 0!important;
+        max-height: none!important;
+    }
+    .list_item_info{
+        width: 100%!important;
+        padding: 1.3rem 0.8rem 0.8rem!important;
+    }
+    .list_item_title,.list_item_des{
+        height: auto!important;
+    }
+    .list_item_like.ml-5{
+        margin-left: auto!important;
+    }
+    .list_item_title{
+        font-size: 1em!important;
+    }
+    .new_content_dt {
+        padding: 1.5rem 0.8rem;
+    }
+    .new_content_dt_btn{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .new_content_dt_btn .ht_social{
+        width: 100%;
+        margin-left: 0!important;
+        margin-top: 0.5rem;
+        text-align: center;
+    }
+    .cont_ycgl{
+        max-width: 100%;
+        height: auto;
+        box-shadow: none;
+    }
+    .ycgl_title{
+        position: relative;
+        top: auto;
+        left: auto;
+        width: 100%;
+        padding: 0.8rem;
+        text-align: center;
+        color: #000;
+    }
+    .ycgl_form {
+        width: 29rem;
+        max-width: calc(100% - 1.6rem);
+        position: relative;
+        top: auto;
+        right: auto;
+        padding: 0.8rem;
+        margin: 0.8rem;
+    }
+    .ycgl_success_div{
+        top: auto;
+        position: relative;
+        left: auto;
+        transform: translate(0);
+        margin: 0.8rem;
+    }
+    .lh_form_detail .check_radio .custom-control-style:last-child {
+        margin-left: 0!important;
+    }
+    .cont_lienhe {
+        padding: 2.5rem 0.8rem 0;
+    }
+    .lh_form_detail{
+        padding: 1.4rem 0.8rem;
+    }
+    .lh_group_btn{
+        flex-wrap: wrap;
+    }
+    .lh_group_btn .btn_web{
+
+    }
+    .nav_item_profile .dropdown-toggle::after{
+        opacity: 1;
+    }
+    .head_profile{
+        width: auto!important;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .head_profile .profile_tool .pf_item span {
+        white-space: pre-wrap;
+    }
+    .head_profile_main:before{
+        display: none;
+    }
+    .qlhd_down_file{
+        flex-wrap: wrap;
+    }
+    .qlhd_down_file .f14px{
+        display: flex;
+        align-items: center;
+    }
+    .qlhd_down_file .ml-auto{
+        text-align: left;
+    }
+    .qlhd_down_file .ml-auto .list_item_link {
+        margin: 0.5rem 0!important;
+        display: block;
+    }
+    .pay_promo_dt .item_gift {
+        max-width: 100%;
+    }
+    .search_box .search_form {
+        position: relative;
+        width: 100%;
+        padding: 0;
+        border-radius: 0;
+        background-color: #fff;
+        top: auto;
+        left: auto;
+        box-shadow: none;
+        border: none;
+        opacity: 1;
+        z-index: 1;
+        pointer-events: inherit;
+    }
+    .form_page_search .form-label-group > input{
+        padding: 0.375rem 0.75rem!important;
+        padding-left: 1.5rem!important;
+    }
+    .form_page_search .form-label-group input:not(:placeholder-shown){
+        padding: 0.375rem 0.75rem!important;
+        padding-left: 1.5rem!important;
+    }
+    .search_box .form_page_search .form-label-group ::-webkit-input-placeholder {
+        color: #969696;
+        font-size: 0.8125rem;
+        font-weight: 400;
+    }
+    .search_box .form_page_search .form-label-group ::-moz-placeholder {
+        color: #969696;
+        font-size: 0.8125rem;
+        font-weight: 400;
+    }
+    .search_box .form_page_search .form-label-group :-ms-input-placeholder {
+        color: #969696;
+        font-size: 0.8125rem;
+        font-weight: 400;
+    }
+    .search_box .form_page_search .form-label-group :-moz-placeholder {
+        color: #969696;
+        font-size: 0.8125rem;
+        font-weight: 400;
+    }
+    .search{
+        padding: 0 0.8rem;
+    }
+    .search_empty .tuvan_empty{
+        padding: 2.5rem 0.8rem!important;
+    }
+    .result_search .pf_paging.rs_new_paging{
+        display: flex!important;
+    }
+    .result_search .pf_paging {
+        display: none;
+    }
+    .page_list_doanhnghiep .list_bhdn .list_item_cont {
+        margin-left: -0.5rem;
+        margin-right: -0.5rem;
+    }
+    .page_list_doanhnghiep .item_tt{
+        margin-bottom: 0!important;
+    }
+    .page_list_doanhnghiep .item_info {
+        padding: 0.7rem 0 0!important;
+    }
+    .quydinh_baomat {
+        padding: 1.5rem 0.8rem;
+    }
+    .back_version{
+        height: 3rem;
+    }
+    .pp_back_version .check_radio .custom-control-style:last-child {
+        margin-left: 0!important;
+    }
+    .back_version .f14px{
+        font-size: 0.7em;
+        height: 3rem;
+    }
+    .kb_final{
+        padding: 2.5rem 0.8rem;
+    }
+    .htdv_list .nav_uu_viet .item .wap_item{
+        display: block;
+    }
+    .htdv_list .nav_uu_viet .icon_option_bh{
+        margin-right: 0;
+    }
+    .htdv_list .nav_uu_viet .item .wap_item .fs_14{
+        text-align: center;
+        font-weight: 400;
+    }
+    .chgt_box .htdv_list .nav_uu_viet .item .wap_item .fs_14{
+        text-align: left;
+    }
+    .chgt_slider .ch_slider_img{
+        height: 12.5rem;
+    }
+    .hddm_slider .item {
+        margin-right: 1rem;
+        width: 15rem;
+    }
+    .ht_nav_child .menu_tab_cus li{
+        width:9rem;
+    }
+    .item_hdsd{
+        padding-left: 0;
+        border: none;
+    }
+    .hdsd_step{
+        flex-wrap: wrap;
+        margin-left: -0.46rem;
+        margin-right: -0.46rem;
+    }
+    .hdsd_step li {
+        padding: 0.46rem;
+        position: relative;
+        width: 50%;
+    }
+    .hdsd_step li:after{
+        display: none;
+    }
+    .page_location{
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+    }
+    .location_tool .item{
+        margin-bottom: 1rem;
+    }
+    .location_tool .item .ml-auto{
+        margin-left: 2rem!important;
+    }
+    .location_tool .sl_option_custom{
+        top: 2.8125rem;
+    }
+    .location_tool .sl_option_scroll {
+        max-height: 8.7rem;
+    }
+    .location_tool .sl_option_custom:after{
+        display: none;
+    }
+    .location_content{
+        padding: 0.8rem;
+    }
+    .location_city_scroll{
+        height: 16rem;
+    }
+    .map {
+        height: auto;
+        margin-top: 1.5rem;
+        border: 1px solid #f0f0f0;
+        padding: 0;
+        border-radius: 0.3rem;
+    }
+    .location_city_detail .location_city_scroll{
+        max-height: 37rem;
+        height: 37rem;
+    }
+    .maps-kfc-full{
+        transform: scale(0.8)
+    }
+    .location_city_detail .map{
+        height: 24rem;
+    }
+    .app_tabs_htdv.htdv_all_tabs .container {
+        max-width: 100%;
+        width: 100%;
+    }
+    .bv_direct {
+        padding: 2rem 0.5rem;
+    }
+    .app_title {
+        font-size: 1.5em;
+    }
+    .bv_direct .app_title_div{
+        width: 70%;
+    }
+    .app_img_abs{
+        width: 6.5rem;
+        right: 0;
+        top:  0.5rem;
+    }
+    .app_text_line{
+        margin: 2rem 0;
+    }
+    .app_text_line:before {
+        width: 9.4rem;
+        height: 1px;
+        top: 50%;
+        left: 0;
+        transform: translate(0,-50%);
+    }
+    .app_text_line:after {
+        width: 9.4rem;
+        height: 1px;
+        top: 50%;
+        right: 0;
+        left:  auto;
+        transform: translate(0,-50%);
+    }
+    .app_login{
+        flex-wrap: wrap;
+    }
+    .app_login li{
+        padding: 1.2rem 0.5rem 2.5rem;
+        width: 100%;
+    }
+    .app_login li:after{
+        top: auto;
+        right: auto;
+        transform: translate(-50%,0) rotate(90deg);
+        left: 50%;
+        bottom: 1rem;
+    }
+    .hdsd_step li .item {
+        padding: 1.5rem 0.5rem;
+    }
+    .ht_nav_child .menu_tab_cus{
+        border-radius: 0;
+        box-shadow: none;
+    }
+    .htdv_content .ht_nav_child .menu_tab_cus li a {
+        padding: 0 1rem;
+    }
+    .ht_nav_child .menu_tab_cus li:after{
+        right: 0;
+    }
+    .icon_calenda{
+        top:1.40625rem
+    }
+    .page_support .menu_tab_cus li a {width: 11rem;}
+}
+@media (max-width: 575px){
+	
+}

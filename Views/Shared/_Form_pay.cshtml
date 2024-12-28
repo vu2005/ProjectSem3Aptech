@@ -1,0 +1,180 @@
+<form action="/PayPal/Checkout" class="row clearfix" method="POST">
+    <div class="form-column col-lg-6 col-md-12 col-sm-12">
+        <div class="inner-column" style="border-radius: 10px;">
+            <h4>Owner Info</h4>
+            <div class="styled-form">
+                <div class="fix_box">
+                    <div id="owner_info">
+                        <fieldset>
+                            <div class="form-group">
+                                <label>Enter your Name</label>
+                                <span class="icon flaticon-user-2"></span>
+                                <input type="text" name="username" id="username" placeholder="Your Name" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Enter your Email</label>
+                                <span class="icon flaticon-envelope"></span>
+                                <input type="email" name="email" id="email" placeholder="Your Email" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Enter your Phone Number</label>
+                                <span class="icon flaticon-phone-call"></span>
+                                <input type="text" name="phone" id="phone" placeholder="Your Phone Number" required />
+                            </div>
+                        </fieldset>
+                    </div>
+
+                    <div id="insured_vehicle" class="hidden">
+                        <h4>Insured Vehicle Information</h4>
+                        <fieldset>
+                            <div class="row">
+                                <div class="form-group col">
+                                    <label for="car_brand">Car Brand</label>
+                                    <span style="margin-left: 15px;" class="icon flaticon-edit"></span>
+                                    <select id="car_brand" name="car_brand" class="custom-select-box nice-select"
+                                        required>
+                                        <option>Car Brand</option>
+                                        <option value="mec">Mercedes-Benz</option>
+                                        <option value="toyota">Toyota</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col">
+                                    <label for="vehicle_line">Vehicle Line</label>
+                                    <span style="margin-left: 15px;" class="icon flaticon-edit"></span>
+                                    <select id="vehicle_line" name="vehicle_line" class="custom-select-box nice-select"
+                                        required>
+                                        <option value="">Vehicle Line</option>
+                                        <option value="Sedan">Sedan</option>
+                                        <option value="SUV">SUV</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group col">
+                                    <label>Year of Manufacture</label>
+                                    <span style="margin-left: 15px;" class="icon flaticon-edit"></span>
+                                    <input id="year_of_manufacture" type="text" name="year_of_manufacture"
+                                        placeholder="Year of Manufacture" required />
+                                </div>
+
+                            </div>
+                            <div class="form-group">
+                                <label>Registration Date</label>
+                                <span class="icon flaticon-edit"></span>
+                                <span class="calendar-icon flaticon-calendar"></span>
+                                <input id="registration_date" name="registration_date" class="datepicker"
+                                    autocomplete="off" type="text" placeholder="DD/MM/YYYY" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Number Plate</label>
+                                <span class="icon flaticon-edit"></span>
+                                <input id="number_plate" type="text" name="number_plate" placeholder="Number Plate"
+                                    required />
+                            </div>
+                            <div class="row">
+                                <div class="form-group col">
+                                    <label>Frame Number </label>
+                                    <span style="margin-left: 15px;" class="icon flaticon-edit"></span>
+                                    <input id="frame_number" type="text" name="frame_number"
+                                        placeholder="Your Frame Number" required />
+                                </div>
+                                <div class="form-group col">
+                                    <label>Machine Number</label>
+                                    <span style="margin-left: 15px;" class="icon flaticon-edit"></span>
+                                    <input id="machine_number" type="text" name="machine_number"
+                                        placeholder="Your Machine Number" required />
+                                </div>
+                            </div>
+                        </fieldset>
+                    </div>
+
+                    <div id="contract_term" class="hidden">
+                        <h4>Contract Term</h4>
+                        <fieldset>
+                            <div class="form-group">
+                                <label>Insurance Start Date</label>
+                                <span class="icon flaticon-edit"></span>
+                                <span class="calendar-icon flaticon-calendar"></span>
+                                <input id="insurance_start_date" name="insurance_start_date" class="datepicker"
+                                    autocomplete="off" type="text" placeholder="DD/MM/YYYY" required />
+                            </div>
+                        </fieldset>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="insurance_package">Insurance Package</label>
+                        <span class="icon flaticon-edit"></span>
+                        <select id="insurance_package" name="insurance_package" class="custom-select-box nice-select"
+                            required onchange="updatePolicyInfo()">
+                            <option value="">Select Package</option>
+                            <option value="Basic">Basic - $50/year</option>
+                            <option value="Standard">Standard - $70/year</option>
+                            <option value="Premium">Premium - $90/year</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" id="submitBtn" class="theme-btn btn-style-one">
+                            <span class="txt">Confirm <i class="fa fa-arrow-circle-right"></i></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="form-column col-lg-6 col-md-12 col-sm-12">
+        <div class="box-bill">
+            <div class="form">
+                <div class="invoice">
+                    <h3>Invoice</h3>
+                </div>
+                <div class="infomatinon">
+                    <span>
+                        <span class="brand"></span>
+                        <span class="type"></span>
+                        <span class="year"></span>
+                    </span>
+                </div>
+                <div class="price-display">
+                    <h4 style="padding: 20px 0;">Total Price:</h4>
+                    <span id="insurance_price_display"
+                        style="color: red; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 25px; text-align: center;">$0.00</span>
+                </div>
+                <input type="hidden" id="insurance_price" name="insurance_price" value="0" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    function updatePolicyInfo() {
+        // Lấy giá trị của gói bảo hiểm được chọn
+        var insurancePackage = document.getElementById("insurance_package").value;
+
+        // Biến để lưu giá trị tương ứng với từng gói
+        var price = 0;
+
+        switch (insurancePackage) {
+            case "Basic":
+                price = 50.00;
+                break;
+            case "Standard":
+                price = 70.00;
+                break;
+            case "Premium":
+                price = 90.00;
+                break;
+            default:
+                price = 0.00;
+        }
+
+        // Cập nhật giá vào các phần tử hiển thị
+        document.getElementById("insurance_price_display").innerText = "$" + price.toFixed(2);
+        document.getElementById("insurance_price").value = price; // Cập nhật input ẩn
+    }
+
+    // Đảm bảo chạy hàm khi trang load nếu có giá trị sẵn
+    document.addEventListener("DOMContentLoaded", function () {
+        updatePolicyInfo();
+    });
+</script>
+

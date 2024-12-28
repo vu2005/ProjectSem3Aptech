@@ -1,0 +1,121 @@
+@model CarInsuranceManage.Models.Claim
+
+@{
+    Layout = "_Layout"; // Đảm bảo sử dụng layout chính của ứng dụng
+}
+
+
+<!-- Page Title -->
+<section class="page-title">
+    <div class="background-container">
+        <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+        <img class="right-image" class="right-image" src="~/customer-assets/images/background/4.jpg" alt="" />
+    </div>
+    <div class="service-container">
+        <div class="section-icons-outer parallax-scene-1">
+            <div data-depth="0.20" class="pattern-layer"
+                style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+            </div>
+        </div>
+
+        <div class="auto-container">
+            <h1>for compensation</h1>
+            <ul class="page-breadcrumb">
+                <li>Claim</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- End Page Title -->
+
+<!-- Forgot Password Form Section -->
+<section class="login-section style-two">
+    <div class="auto-container">
+        <div class="login-box">
+
+            <!-- Display Warning Message if TempData["WarningMessage"] is not null -->
+            @if (TempData["WarningMessage"] != null)
+            {
+                <div class="alert alert-warning">
+                    @TempData["WarningMessage"]
+                </div>
+            }
+
+
+            <!-- Form Box -->
+            <div class="form-box">
+                <div class="styled-form">
+                    <!-- Forgot Password Form -->
+                    <div class="container my-5">
+                        <h2 class="text-center mb-4">Claim form </h2>
+                        <form method="post" asp-action="SendClaim" asp-controller="Claim">
+                            <!-- Họ tên khách hàng -->
+                            <div class="form-group">
+                                <label for="customer_full_name">Enter your Full Name</label>
+                                <span class="icon flaticon-user"></span>
+                                <input type="text" name="customer_full_name" id="customer_full_name"
+                                    placeholder="Full Name" required />
+                            </div>
+
+                            <!-- Email -->
+                            <div class="form-group">
+                                <label for="customer_email">Enter your Email</label>
+                                <span class="icon flaticon-envelope"></span>
+                                <input type="email" name="customer_email" id="customer_email" placeholder="Email"
+                                    required />
+                            </div>
+
+                            <!-- Số điện thoại -->
+                            <div class="form-group">
+                                <label for="customer_phone">Enter your Phone Number</label>
+                                <span class="icon flaticon-phone"></span>
+                                <input type="text" name="customer_phone" id="customer_phone" placeholder="Phone Number"
+                                    required />
+                            </div>
+
+                            <!-- Mô tả yêu cầu -->
+                            <div class="form-group">
+                                <label for="description">Claim Description</label>
+                                <span class="icon flaticon-description"></span>
+                                <textarea name="description" id="description" placeholder="Describe your claim"
+                                    required></textarea>
+                            </div>
+
+                            <!-- Nút gửi -->
+                            <div class="form-group text-center">
+                                <button type="submit" class="theme-btn btn-style-one">
+                                    <span class="txt" style="text-align: center;">Send<i
+                                            class="fa fa-arrow-right"></i></span>
+                                </button>
+                            </div>
+
+                        </form>
+
+                    </div>
+
+                    <!-- Javascript để kích hoạt tính năng validataion của form -->
+                    <script>
+                        // Lấy tất cả các form
+                        var forms = document.querySelectorAll('.needs-validation');
+
+                        // Lặp qua mỗi form để kích hoạt validation
+                        Array.prototype.slice.call(forms)
+                            .forEach(function (form) {
+                                form.addEventListener('submit', function (event) {
+                                    if (!form.checkValidity()) {
+                                        event.preventDefault();
+                                        event.stopPropagation();
+                                    }
+
+                                    form.classList.add('was-validated');
+                                }, false);
+                            });
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Email Send Partial -->
+@await Html.PartialAsync("_SendMail")

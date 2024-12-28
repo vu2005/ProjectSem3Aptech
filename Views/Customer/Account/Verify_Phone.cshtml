@@ -1,0 +1,40 @@
+<section class="login-section">
+  <div class="auto-container">
+    <div class="login-box">
+      <!-- Display Warning Message -->
+      @if (TempData["WarningMessage"] != null)
+      {
+        <div class="alert alert-warning">
+          @TempData["WarningMessage"]
+        </div>
+      }
+
+      <!-- Sec Title -->
+      <div class="title-box">
+        <h2>Verify OTP</h2>
+        <div class="text">
+          Enter the 4-digit OTP sent to your phone number.
+        </div>
+      </div>
+      <div class="form-box">
+        <div class="styled-form">
+          <!-- OTP Verification Form -->
+          <form method="post" asp-action="VerifyOtp" asp-controller="LoginPhone">
+            <div class="form-group">
+              <label>Enter OTP</label>
+              <div class="otp-inputs">
+                <input style="width:50px" type="text" name="otp" maxlength="6" pattern="\d*" required
+                  class="otp-field" />
+              </div>
+            </div>
+            <div class="form-group text-center">
+              <button type="submit" class="theme-btn btn-style-one">
+                <span class="txt">Verify OTP <i class="fa fa-arrow-right"></i></span>
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,194 @@
+@model CarInsuranceManage.Models.User
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page-title">
+    <div class="background-container">
+        <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+        <img class="right-image" class="right-image" src="~/customer-assets/images/background/4.jpg" alt="" />
+    </div>
+    <div class="service-container">
+        <div class="section-icons-outer parallax-scene-1">
+            <div data-depth="0.20" class="pattern-layer"
+                style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+            </div>
+        </div>
+
+        <div class="auto-container">
+            <h1>Account</h1>
+            <ul class="page-breadcrumb">
+                <li>Account|Profile</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section class="main-slider">
+    <div class="container profile-container">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-md-4 profile-sidebar text-center py-4">
+                <img src="data:image/jpeg;base64,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"
+                    alt="Avatar" class="img-fluid rounded-circle mb-3" style="width: 150px; height: 150px;">
+                <h4 class="text-light ">@Model.username</h4>
+                <p class="text-light ">@Model.email</p>
+                <div class="d-grid gap-2">
+                    <a asp-action="Profile" asp-controller="Account" class="btn btn-primary">Profile</a>
+                    <a href="@Url.Action("Logout", "Account")" class="btn btn-primary">Logout</a>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="col-md-8 py-4 px-4">
+                <h3 class="text-center mb-4">User Account Information</h3>
+                @if (TempData["Success"] != null)
+                {
+                    <div class="alert alert-success">@TempData["Success"]</div>
+                }
+                <form asp-action="Profile" method="post">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="username" class="form-label">Username</label>
+                            <input type="text" class="form-control" id="username" name="username"
+                                value="@Model.username" readonly>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="fullname" class="form-label">Full Name</label>
+                            <input type="text" class="form-control" id="fullname" name="full_name"
+                                value="@Model.full_name">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="email" name="email" value="@Model.email">
+                        </div>
+                        <div class="col-md-6 mb-3 password-toggle">
+                            <label for="password" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="password" name="password"
+                                value="@Model.password">
+                            <span class="toggle-password" onclick="togglePasswordVisibility()">
+                                <i class="fa fa-eye" id="togglePasswordIcon"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="phone_number" class="form-label">Phone Number</label>
+                            <input type="text" class="form-control" id="phone_number" name="phone_number"
+                                value="@Model.phone_number">
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="address" class="form-label">Address</label>
+                            <input type="text" class="form-control" id="address" name="address" value="@Model.address">
+                        </div>
+                    </div>
+                    <div class="text-start">
+                        <button type="submit" class="btn btn-primary">Update</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="auto-container">
+            <div class="inner-container"
+                style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-5.png")')">
+                <div class="row clearfix">
+                    <!-- Title Column -->
+                    <div class="title-column col-lg-5 col-md-12 col-sm-12">
+                        <div class="inner-column">
+                            <h3>Let us take care about your veicle</h3>
+                        </div>
+                    </div>
+
+                    <!-- Form Column -->
+                    <div class="form-column col-lg-7 col-md-12 col-sm-12">
+                        <div class="inner-column">
+                            <div class="newsletter-form">
+                                <form method="post" action="https://themeim.com/demo/carsore/contact.html">
+                                    <div class="form-group">
+                                        <span class="icon fa fa-envelope"></span>
+                                        <input type="email" name="email" value="" placeholder="Enter your mail"
+                                            required="" />
+                                        <button type="submit" class="theme-btn flaticon-send"></button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        function togglePasswordVisibility() {
+            var passwordInput = document.getElementById("password");
+            var togglePasswordIcon = document.getElementById("togglePasswordIcon");
+            if (passwordInput.type === "password") {
+                passwordInput.type = "text";
+                togglePasswordIcon.classList.remove("fa-eye");
+                togglePasswordIcon.classList.add("fa-eye-slash");
+            } else {
+                passwordInput.type = "password";
+                togglePasswordIcon.classList.remove("fa-eye-slash");
+                togglePasswordIcon.classList.add("fa-eye");
+            }
+        }
+    </script>
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .profile-container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile-sidebar {
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 10px 0 0 10px;
+        }
+
+        .profile-sidebar .btn {
+            color: #fff;
+            border-color: #fff;
+        }
+
+        .profile-sidebar .btn:hover {
+            background-color: #0056b3;
+        }
+
+        .form-control {
+            border-radius: 8px;
+        }
+
+        .form-section-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #495057;
+        }
+
+        .password-toggle {
+            position: relative;
+        }
+
+        .password-toggle .toggle-password {
+            position: absolute;
+            top: 72%;
+            right: 10px;
+            margin-right: 12px;
+            transform: translateY(-50%);
+            cursor: pointer;
+        }
+    </style>

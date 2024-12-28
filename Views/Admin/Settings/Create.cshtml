@@ -1,0 +1,75 @@
+@model CarInsuranceManage.Models.InsuranceService
+
+@{
+    ViewData["Title"] = "Add New Service";
+}
+
+
+<div class="content-body">
+    <div class="row page-titles mx-0">
+        <div class="col p-md-0">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Dashboard</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">Home</a></li>
+            </ol>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-20">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="create row">
+                            <div class="col">
+                            </div>
+
+                        </div>
+                        <div class="container mt-4">
+                            <h2>Add New Insurance Service</h2>
+                            @if (TempData["ErrorMessage"] != null)
+                            {
+                                <div class="alert alert-danger" role="alert">
+                                    @TempData["ErrorMessage"]
+                                </div>
+                            }
+
+                            <form asp-action="Create" asp-controller="Settings" method="post"
+                                enctype="multipart/form-data">
+                                <div class="form-group">
+                                    <label for="service_name">Service Name</label>
+                                    <input asp-for="service_name" class="form-control" />
+                                    <span asp-validation-for="service_name" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="description">Description</label>
+                                    <textarea asp-for="description" class="form-control"></textarea>
+                                    <span asp-validation-for="description" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="price">Price</label>
+                                    <input asp-for="price" class="form-control" />
+                                    <span asp-validation-for="price" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="avatar">Upload Image</label>
+                                    <input type="file" name="avatar" class="form-control" />
+                                    <small class="form-text text-muted">Accepted formats: .jpg, .jpeg, .png</small>
+                                </div>
+                                <div class="form-group">
+                                    <label for="is_active">Status</label>
+                                    <select asp-for="is_active" class="form-control">
+                                        <option value="true">Active</option>
+                                        <option value="false">Inactive</option>
+                                    </select>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Add Service</button>
+                                <a asp-action="Services" class="btn btn-secondary">Cancel</a>
+                            </form>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

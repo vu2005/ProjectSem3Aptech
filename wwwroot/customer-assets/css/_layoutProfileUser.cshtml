@@ -1,0 +1,48 @@
+@{
+     Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+      <link rel="stylesheet" href="~/css/styleprofile.css" asp-append-version="true" >
+    <link rel="stylesheet" href="~/css/coloring.css" asp-append-version="true" >
+    <link rel="stylesheet" href="~/css/jquery.countdown.css" asp-append-version="true" >
+    <link rel="stylesheet" href="~/css/colors/scheme-01.css" asp-append-version="true">
+</head>
+<div class="no-bottom no-top zebra" id="content" style="margin-bottom: 200px;">
+    <div id="top"></div>
+
+
+    <section id="section-settings" class="bg-gray-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 mb30">
+                    <div class="card padding30 rounded-5">
+                        <div class="profile_avatar">
+                            <div class="profile_img">
+                                <img src="~/images/1.jpg" alt="">
+                            </div>
+                            <div class="profile_name">
+                                <h4>
+                                    Monica Lucas                                                
+                                    <span class="profile_username text-gray">monica@rentaly.com</span>
+                                </h4>
+                            </div>
+                        </div>
+                        <div class="spacer-20"></div>
+                        <ul class="menu-col">
+                            <li><a asp-area="" asp-controller="ProfileUser" asp-action="profile" ><i class="fa fa-user"></i>My Profile</a></li>
+                            <li><a asp-area="" asp-controller="ProfileUser" asp-action="profile_booking"><i class="fa fa-calendar"></i>My Orders</a></li>
+                            <li><a asp-area="" asp-controller="Account" asp-action="Sign_in"><i class="fa fa-sign-out"></i>Sign Out</a></li>
+                        </ul>
+                    </div>
+                </div>
+                    @RenderBody();
+
+                </div>
+        </div>
+    </section>
+    
+    
+</div>
+
+<script src="js/styleprofile.js"></script>

@@ -1,0 +1,159 @@
+@* @model CarInsuranceManage.Models.User
+
+
+<section class="page-title">
+  <div class="background-container">
+    <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+    <img class="right-image" class="right-image" src="~/customer-assets/images/background/4.jpg" alt="" />
+  </div>
+  <div class="service-container">
+    <div class="section-icons-outer parallax-scene-1">
+      <div data-depth="0.20" class="pattern-layer"
+        style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+      </div>
+    </div>
+    <div class="auto-container">
+      <h1>Account</h1>
+      <ul class="page-breadcrumb">
+        <li>Account|Transaction History</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="main-slider">
+  <div class="container profile-container">
+    <div class="row">
+      @await Html.PartialAsync("~/Views/Customer/Account/HeaderProfile.cshtml", Model)
+      <div class="col-md-8 py-4 px-4">
+        @if (TempData["Success"] != null)
+        {
+          <div class="alert alert-success">@TempData["Success"]</div>
+        }
+        <h3 class="text-center mb-4">Transaction History</h3>
+
+        <div class="table-responsive p-2">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Payment Date</th>
+                <th>Policy Number</th>
+                <th>Amount</th>
+                <th>Payment Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              @foreach (var payment in Model.Payments)
+              {
+                <tr>
+                  <td>@payment.payment_date.ToString("dd/MM/yyyy")</td>
+                  <td>@payment.policy.policy_number</td>
+                  <td>@payment.payment_amount.ToString("C")</td>
+                  <td>@payment.payment_status</td>
+                </tr>
+              }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </tbody>
+          </table>
+        </div>
+
+        <h3 class="text-center mt-5 mb-4">Insurance History</h3>
+
+        <div class="table-responsive p-2">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Change Date</th>
+                <th>Policy Status</th>
+                <th>Changed By</th>
+              </tr>
+            </thead>
+            <tbody>
+              @foreach (var history in Model.InsuranceHistories)
+              {
+                <tr>
+                  <td>@history.change_date.ToString("dd/MM/yyyy")</td>
+                  <td>@history.new_value</td>
+                  <td>@history.changed_by</td>
+                </tr>
+              }
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+@await Html.PartialAsync("_SendMail")
+
+<style>
+  body {
+    background-color: #f8f9fa;
+  }
+
+  .badge {
+    color: white;
+    font-family: bold;
+  }
+
+  .profile-container {
+    margin: 30px auto;
+    width: auto;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .profile-sidebar {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .profile-sidebar .btn {
+    color: #fff;
+    border-color: #fff;
+  }
+
+  .profile-sidebar .btn:hover {
+    background-color: #0056b3;
+  }
+
+  .form-control {
+    border-radius: 8px;
+  }
+
+  .form-section-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #495057;
+  }
+
+  .password-toggle {
+    position: relative;
+  }
+
+  .password-toggle .toggle-password {
+    position: absolute;
+    top: 72%;
+    right: 10px;
+    margin-right: 12px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+</style> *@

@@ -1,0 +1,439 @@
+@model List<CarInsuranceManage.Models.InsuranceService>
+
+<section class="page-title">
+  <div class="background-container">
+    <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+    <img class="right-image" src="~/customer-assets/images/background/5.jpg" alt="" />
+  </div>
+  <div class="service-container">
+    <div class="section-icons-outer parallax-scene-1">
+      <div data-depth="0.20" class="pattern-layer"
+        style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+      </div>
+    </div>
+
+    <div class="auto-container">
+      <h1>Services</h1>
+      <ul class="page-breadcrumb">
+        <li><a href="index-2.html">home</a></li>
+        <li>Services</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="services-section">
+  <div class="auto-container">
+    <!-- Sec Title -->
+    <div class="sec-title centered">
+      <h2>We ensure best insurance services</h2>
+      <div class="text">
+        We are a professional and creative company and we <br />
+        offer you a trusty insurance on your vehicle.
+      </div>
+    </div>
+
+    <div class="inner-container">
+      <div class="section-icons-outer parallax-scene-2">
+        <div data-depth="0.20" class="icon-layer"
+          style="background-image: url('@Url.Content("~/customer-assets/images/icons/icon-1.png")')"></div>
+        <div data-depth="0.20" class="pattern-layer"
+          style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-3.png")')"></div>
+        <div data-depth="0.20" class="pattern-layer-two style-two"
+          style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-4.png")')"></div>
+      </div>
+
+      <div class="row clearfix">
+        <div class="container">
+          <div class="row">
+            @if (Model != null && Model.Any())
+            {
+              @foreach (var service in Model)
+              {
+                <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                  <div class="card">
+                    <div class="card-body">
+                      <div class="image">
+                        <a asp-action="Car_details" asp-controller="Insurance" asp-route-id="@service.service_id">
+                          <img src="~/@service.image_url" class="card-img-top"
+                            alt="@service.service_name" />
+                        </a>
+                      </div>
+                      <div class="lower-content">
+                        <h4><a asp-action="Car_details" asp-controller="Insurance"
+                            asp-route-id="@service.service_id">@service.service_name</a></h4>
+                        <p class="text">@service.description</p>
+                        <a asp-action="Car_details" asp-controller="Insurance" asp-route-id="@service.service_id"
+                          class="read-more">Read More</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              }
+            }
+            else
+            {
+              <p>No services available.</p> <!-- Hiển thị khi không có dữ liệu -->
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="experiance-section">
+  <div class="auto-container">
+    <!-- End Sec Title -->
+    <div class="inner-container">
+      <div class="section-icons-outer parallax-scene-3">
+        <div data-depth="0.20" class="icon-layer"
+          style="background-image: url('@Url.Content("~/customer-assets/images/icons/icon-1.png")')"></div>
+        <div data-depth="0.20" class="pattern-layer"
+          style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-3.png")')"></div>
+      </div>
+      <div class="row clearfix">
+        <!-- Image Column -->
+        <div class="image-column col-lg-6 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="image titlt" data-tilt data-tilt-max="2">
+              <img src="~/customer-assets/images/resource/experiance.jpg" alt="" />
+              <span class="triangle-one"></span>
+              <span class="triangle-two"></span>
+            </div>
+            <div class="fact-counter style-two">
+              <div class="row clearfix">
+                <!-- Column -->
+                <div class="
+                            column
+                            counter-column
+                            col-lg-6 col-md-6 col-sm-12
+                          ">
+                  <div class="inner">
+                    <div class="content">
+                      <div class="count-outer count-box">
+                        <span class="count-text" data-speed="3000" data-stop="10">0</span>K+
+                      </div>
+                      <div class="counter-title">Happy Custormer</div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Column -->
+                <div class="
+                            column
+                            counter-column
+                            col-lg-6 col-md-6 col-sm-12
+                          ">
+                  <div class="inner">
+                    <div class="content">
+                      <div class="count-outer count-box">
+                        <span class="count-text" data-speed="4000" data-stop="4.9">0</span>+
+                      </div>
+                      <div class="rating">
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                        &nbsp; (2,894)
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Content Column -->
+        <div class="content-column col-lg-6 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="sec-title light">
+              <h2>More than 10 years Experience</h2>
+              <div class="text">
+                We are a professional and creative company and we offer
+                you a trusty insurance on your veicle.
+              </div>
+            </div>
+            <div class="list-outer">
+              <ul class="experiance-list">
+                <li>
+                  <span class="icon flaticon-horse"></span>
+                  <strong>Strategy</strong>
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem
+                </li>
+                <li>
+                  <span class="icon flaticon-shopping-cart-4"></span>
+                  <strong>Market value</strong>
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem
+                </li>
+                <li>
+                  <span class="icon flaticon-megaphone-1"></span>
+                  <strong>Marketing</strong>
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem
+                </li>
+                <li>
+                  <span class="icon flaticon-relations"></span>
+                  <strong>Relations</strong>
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Experiance Section -->
+
+<!-- Skill Section -->
+<section class="skill-section">
+  <div class="auto-container">
+    <div class="inner-container">
+      <div class="section-icons-outer parallax-scene-4">
+        <div data-depth="0.30" class="pattern-layer"
+          style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-4.png")')"></div>
+      </div>
+      <div class="row clearfix">
+        <!-- Skill Column -->
+        <div class="skill-column col-lg-6 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="parallax-scene-5">
+              <div data-depth="0.80" class="icon-layer"
+                style="background-image: url('@Url.Content("~/customer-assets/images/icons/icon-1.png")')">
+              </div>
+            </div>
+            <!-- Sec Title -->
+            <div class="sec-title">
+              <h2>
+                The operational <br />
+                processes of Carsore
+              </h2>
+              <div class="text">
+                We are a professional and creative company and we offer
+                you a trusty insurance on your veicle.
+              </div>
+            </div>
+
+            <!-- Skills -->
+            <div class="skills">
+              <!-- Skill Item -->
+              <div class="skill-item">
+                <div class="skill-header clearfix">
+                  <div class="skill-title">Strategy Consulting</div>
+                  <div class="skill-percentage">
+                    <div class="count-box">
+                      <span class="count-text" data-speed="2000" data-stop="90">0</span>%
+                    </div>
+                  </div>
+                </div>
+                <div class="skill-bar">
+                  <div class="bar-inner">
+                    <div class="bar progress-line" data-width="90"></div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Skill Item -->
+              <div class="skill-item">
+                <div class="skill-header clearfix">
+                  <div class="skill-title">Market value</div>
+                  <div class="skill-percentage">
+                    <div class="count-box">
+                      <span class="count-text" data-speed="2000" data-stop="80">0</span>%
+                    </div>
+                  </div>
+                </div>
+                <div class="skill-bar">
+                  <div class="bar-inner">
+                    <div class="bar progress-line" data-width="80"></div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Skill Item -->
+              <div class="skill-item">
+                <div class="skill-header clearfix">
+                  <div class="skill-title">Marketing</div>
+                  <div class="skill-percentage">
+                    <div class="count-box">
+                      <span class="count-text" data-speed="2000" data-stop="70">0</span>%
+                    </div>
+                  </div>
+                </div>
+                <div class="skill-bar">
+                  <div class="bar-inner">
+                    <div class="bar progress-line" data-width="70"></div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Skill Item -->
+              <div class="skill-item">
+                <div class="skill-header clearfix">
+                  <div class="skill-title">Relations</div>
+                  <div class="skill-percentage">
+                    <div class="count-box">
+                      <span class="count-text" data-speed="2000" data-stop="60">0</span>%
+                    </div>
+                  </div>
+                </div>
+                <div class="skill-bar">
+                  <div class="bar-inner">
+                    <div class="bar progress-line" data-width="60"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Image Column -->
+        <div class="image-column col-lg-6 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="image">
+              <div class="triangle-one"></div>
+              <div class="triangle-two"></div>
+              <img src="~/customer-assets/images/resource/skill.jpg" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Skill Section -->
+
+<!-- Choose Section -->
+<section class="choose-section">
+  <div class="auto-container">
+    <!-- Sec Title -->
+    <div class="sec-title light centered">
+      <div class="title">why us</div>
+      <h2>Why Chose Us</h2>
+    </div>
+    <!-- End Sec Title -->
+    <div class="inner-container">
+      <div class="section-icons-outer parallax-scene-6">
+        <div data-depth="0.20" class="icon-layer"
+          style="background-image: url('@Url.Content("~/customer-assets/images/icons/icon-1.png")')"></div>
+        <div data-depth="0.20" class="pattern-layer"
+          style="background-image: url(~/customer-assets/images/background/pattern-3.png)"></div>
+        <div data-depth="0.20" class="pattern-layer-two"
+          style="background-image: url(~/customer-assets/images/background/pattern-4.png)"></div>
+      </div>
+      <div class="row clearfix">
+        <!-- Image Column -->
+        <div class="image-column col-lg-6 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="image titlt" data-tilt data-tilt-max="2">
+              <img src="~/customer-assets/images/resource/choose.jpg" alt="" />
+              <span class="triangle-one"></span>
+              <span class="triangle-two"></span>
+              <!-- Fact Counter -->
+              <div class="fact-counter">
+                <div class="row clearfix">
+                  <!-- Column -->
+                  <div class="
+                              column
+                              counter-column
+                              col-lg-4 col-md-4 col-sm-4
+                            ">
+                    <div class="inner">
+                      <div class="content">
+                        <div class="count-outer count-box">
+                          <span class="count-text" data-speed="3000" data-stop="100">0</span>%
+                        </div>
+                        <div class="counter-title">
+                          Customer <br />
+                          satisfaction
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!--Column-->
+                  <div class="
+                              column
+                              counter-column
+                              col-lg-4 col-md-4 col-sm-4
+                            ">
+                    <div class="inner">
+                      <div class="content">
+                        <div class="count-outer count-box">
+                          <span class="count-text" data-speed="4000" data-stop="200">0</span>+
+                        </div>
+                        <div class="counter-title">
+                          Monthly active <br />
+                          users
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!--Column-->
+                  <div class="
+                              column
+                              counter-column
+                              col-lg-4 col-md-4 col-sm-4
+                            ">
+                    <div class="inner">
+                      <div class="content">
+                        <div class="count-outer count-box">
+                          <span class="count-text" data-speed="3000" data-stop="100">0</span>+
+                        </div>
+                        <div class="counter-title">
+                          New Customer <br />
+                          per week
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Content Column -->
+        <div class="content-column col-lg-6 col-md-12 col-sm-12">
+          <div class="inner-column">
+            <div class="text">
+              Lorem Ipsum is simply dummy text of the printing and
+              typesetting industry. Lorem Ipsum has been the simply
+              dummy text of industry's standard dummy, lorem ipsum
+              dolor.
+            </div>
+            <div class="list-outer">
+              <ul class="choose-list">
+                <li>
+                  <span class="number">1</span>
+                  <strong>Compare personalized quotes</strong>
+                  Answer a couple of questions, we'll provide accurate
+                  live
+                </li>
+                <li>
+                  <span class="number">2</span>
+                  <strong>Get all discounts in one place</strong>
+                  Answer a couple of questions, we'll provide accurate
+                  live
+                </li>
+                <li>
+                  <span class="number">3</span>
+                  <strong>Buy online or on the phone</strong>
+                  Answer a couple of questions, we'll provide accurate
+                  live
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+@await Html.PartialAsync("_Vehicle")
+@await Html.PartialAsync("_SendMail")

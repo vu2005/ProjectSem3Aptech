@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="40" viewBox="0 0 190 40">
+  <!-- Nền nút -->
+  <rect width="190" height="40" rx="5" fill="#1877f2"/>
+
+  <!-- Văn bản nút -->
+  <text x="55%" y="55%" fill="white" font-family="sans-serif" font-size="13" text-anchor="middle" alignment-baseline="middle">
+    Continue with Facebook
+  </text>
+
+  <!-- Vòng tròn với chữ f (logo Facebook) -->
+  <circle cx="20" cy="21" r="12" fill="white"/>
+  <text x="16" y="33" fill="#1877f2" font-family="Arial" font-size="24">f</text>
+</svg>

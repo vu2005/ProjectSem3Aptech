@@ -1,0 +1,1447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\G3\\CarInsuranceManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\customer\\paypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\customer\\paypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\paypal\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\paypal\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\customer\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\customer\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\customer\\loginphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\customer\\loginphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\shared\\_form_pay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\shared\\_form_pay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\wwwroot\\customer-assets\\js\\pay.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:wwwroot\\customer-assets\\js\\pay.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\wwwroot\\customer-assets\\js\\js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:wwwroot\\customer-assets\\js\\js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\app_data\\db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:app_data\\db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\models\\shared\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:models\\shared\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\app_data\\carinsurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:app_data\\carinsurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\admin\\email\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\admin\\email\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\admin\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\admin\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\admin\\account\\lock_screen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\admin\\account\\lock_screen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\admin\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\admin\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\admin\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\admin\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\G3\\CarInsuranceManage\\Views\\Shared\\_Layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\customer\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\customer\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\customer\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\customer\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\insurance\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\insurance\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\controllers\\customer\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:controllers\\customer\\insurancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|c:\\laragon\\www\\g3\\carinsurancemanage\\views\\customer\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD4DCD93-AA06-413C-9EF5-9B9430B494AA}|CarInsuranceManage.csproj|solutionrelative:views\\customer\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Table\\Data_Table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Admin\\activity_stream.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Admin\\500.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Admin\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Admin\\buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Forms\\Form_Validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Forms\\Editor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Toastr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Sweet_Alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Noui_Slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Modal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Nestedable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Tab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Progressbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Popover.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Pagination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Media_Object.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\List_Group.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Dropdown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Cards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Button_Group.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Button.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Badge.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Accordion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\ui-accordion.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Peity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Chartist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Chartjs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Morris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Flot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Sparkline.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\App\\Calender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\App\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\page-error-404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\PageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\TableController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\FormsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\ComponentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\UIComponentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\ChartsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Compose.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\EmailController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-read.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Layout\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\layout-two-column.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Controllers\\LayoutController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\chart-chartjs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\logo-compact.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T2307A\\CarInsuranceManage\\Migrations\\20241123201119_carinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\ContactControllercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\ProfileUserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\G3\\CarInsuranceManage\\Views\\Customer\\Home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\Admin\\AppController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Insurance\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Customer\\Insurance\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\laragon\\www\\G3\\CarInsuranceManage\\Momo\\Config\\MomoConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Momo\\Config\\MomoConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Data_Table.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Table\\Data_Table.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Table\\Data_Table.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:09:35.896Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\PayPal\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\PayPal\\Checkout.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\PayPal\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Customer\\PayPal\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T22:52:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayPalController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\PayPalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer\\PayPalController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\PayPalController.cs",
+              "RelativeToolTip": "Controllers\\Customer\\PayPalController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:50:29.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayPalService.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Services\\PayPalService.cs",
+              "RelativeDocumentMoniker": "Services\\PayPalService.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Services\\PayPalService.cs",
+              "RelativeToolTip": "Services\\PayPalService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:49:37.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Admin\\Email\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Email\\Inbox.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Admin\\Email\\Inbox.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Email\\Inbox.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:16:43.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\AccountController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:06:22.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T19:26:33.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\About\\Index.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\About\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\About\\Index.cshtml",
+              "ViewState": "AgIAAPICAAAAAAAAAAAYwAYDAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:54:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer\\AboutController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\Customer\\AboutController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:54:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Form_pay.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Shared\\_Form_pay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Form_pay.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Shared\\_Form_pay.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Form_pay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T18:08:53.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Models\\Shared\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Shared\\Payment.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Models\\Shared\\Payment.cs",
+              "RelativeToolTip": "Models\\Shared\\Payment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:15:09.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "db.sql",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\App_Data\\db.sql",
+              "RelativeDocumentMoniker": "App_Data\\db.sql",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\App_Data\\db.sql",
+              "RelativeToolTip": "App_Data\\db.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T18:34:57.353Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPhoneController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\LoginPhoneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer\\LoginPhoneController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\LoginPhoneController.cs",
+              "RelativeToolTip": "Controllers\\Customer\\LoginPhoneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:13:06.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarInsuranceDbContext.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\App_Data\\CarInsuranceDbContext.cs",
+              "RelativeDocumentMoniker": "App_Data\\CarInsuranceDbContext.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\App_Data\\CarInsuranceDbContext.cs",
+              "RelativeToolTip": "App_Data\\CarInsuranceDbContext.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAYwAUBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:25:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "js.js",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\js.js",
+              "RelativeDocumentMoniker": "wwwroot\\customer-assets\\js\\js.js",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\js.js",
+              "RelativeToolTip": "wwwroot\\customer-assets\\js\\js.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T19:19:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pay.js",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\pay.js",
+              "RelativeDocumentMoniker": "wwwroot\\customer-assets\\js\\pay.js",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\pay.js",
+              "RelativeToolTip": "wwwroot\\customer-assets\\js\\pay.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T19:19:37.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChartsController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\ChartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\ChartsController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\ChartsController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\ChartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:04:56.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:33:09.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAABcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T20:53:40.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lock_Screen.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Admin\\Account\\Lock_Screen.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Account\\Lock_Screen.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Admin\\Account\\Lock_Screen.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Account\\Lock_Screen.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:10:52.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Admin\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Admin\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:11:33.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Home\\Index.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:44:04.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:56:57.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\AppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Admin\\AppController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Admin\\AppController.cs",
+              "RelativeToolTip": "Controllers\\Admin\\AppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:05:27.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer\\AccountController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\Customer\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:49:33.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T19:27:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.html",
+              "DocumentMoniker": "D:\\G3\\CarInsuranceManage\\Views\\Shared\\_Layout.html",
+              "ToolTip": "D:\\G3\\CarInsuranceManage\\Views\\Shared\\_Layout.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T20:53:35.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ContactControllercs.cs",
+              "DocumentMoniker": "D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\ContactControllercs.cs",
+              "ToolTip": "D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\ContactControllercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:55:39.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\HomeController.cs",
+              "ToolTip": "D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:43:49.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T19:31:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ProfileUserController.cs",
+              "DocumentMoniker": "D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\ProfileUserController.cs",
+              "ToolTip": "D:\\G3\\CarInsuranceManage\\Controllers\\Customer\\ProfileUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:00:33.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "privacy.cshtml",
+              "DocumentMoniker": "D:\\G3\\CarInsuranceManage\\Views\\Customer\\Home\\privacy.cshtml",
+              "ToolTip": "D:\\G3\\CarInsuranceManage\\Views\\Customer\\Home\\privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:58:33.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Insurance\\Services.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Insurance\\Services.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Insurance\\Services.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Insurance\\Services.cshtml",
+              "ViewState": "AgIAAPQCAAAAAAAAAAAAAAQDAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:59:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Insurance\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Insurance\\Index.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Insurance\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Insurance\\Index.cshtml",
+              "ViewState": "AgIAABgBAAAAAAAAAAAYwCwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:59:00.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InsuranceController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\InsuranceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer\\InsuranceController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\InsuranceController.cs",
+              "RelativeToolTip": "Controllers\\Customer\\InsuranceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:58:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Customer\\BlogController.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Controllers\\Customer\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\Customer\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:45:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:54:57.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Account\\Register.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:52:52.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Account\\Login.cshtml",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Account\\Login.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:52:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "D:\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Blog.cshtml",
+              "ToolTip": "D:\\G3\\CarInsuranceManage\\Views\\Customer\\Account\\Blog.cshtml",
+              "ViewState": "AgIAAFUCAAAAAAAAAAAYwIMCAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:50:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form_Validation.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Forms\\Form_Validation.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Forms\\Form_Validation.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv5cAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:02:32.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Editor.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Forms\\Editor.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Forms\\Editor.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:02:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Toastr.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Toastr.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Toastr.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAADwv6MAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:01:05.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Sweet_Alert.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Sweet_Alert.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Sweet_Alert.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAADwv6sAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:00:55.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Noui_Slider.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Noui_Slider.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Noui_Slider.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABICAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:00:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Modal.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Modal.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Modal.cshtml",
+              "ViewState": "AgIAAOQAAAAAAAAAAADgv+EAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:42.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Nestedable.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Nestedable.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Components\\Nestedable.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAADwv6oAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:00:32.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Typography.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Typography.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Typography.cshtml",
+              "ViewState": "AgIAAMsAAAAAAAAAAADwv+MAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:35:12.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Tab.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Tab.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Tab.cshtml",
+              "ViewState": "AgIAAEwBAAAAAAAAAADwv2EBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:35:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Progressbar.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Progressbar.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Progressbar.cshtml",
+              "ViewState": "AgIAADQBAAAAAAAAAADwv0wBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:35:00.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Popover.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Popover.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Popover.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv48AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:54.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Pagination.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Pagination.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Pagination.cshtml",
+              "ViewState": "AgIAAM4AAAAAAAAAAADwv+gAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:48.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Media_Object.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Media_Object.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Media_Object.cshtml",
+              "ViewState": "AgIAAEQBAAAAAAAAAADwv1kBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:38.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "List_Group.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\List_Group.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\List_Group.cshtml",
+              "ViewState": "AgIAAN0AAAAAAAAAAADwv+4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:32.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Dropdown.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Dropdown.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Dropdown.cshtml",
+              "ViewState": "AgIAAGcBAAAAAAAAAADwv4ABAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:27.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Carousel.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Carousel.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Carousel.cshtml",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv4UAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:22.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Cards.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Cards.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Cards.cshtml",
+              "ViewState": "AgIAAJoBAAAAAAAAAADwv7EBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Button_Group.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Button_Group.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Button_Group.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAADwv58AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Button.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Button.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Button.cshtml",
+              "ViewState": "AgIAAOYAAAAAAAAAAADwv/sAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:34:06.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Badge.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Badge.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Badge.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv04AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:33:49.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Alert.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Alert.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Alert.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv1wAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:33:36.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Accordion.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Accordion.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\UIComponents\\Accordion.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:33:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ui-accordion.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\ui-accordion.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\ui-accordion.html",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAwwIwBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T09:39:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Peity.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Peity.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Peity.cshtml",
+              "ViewState": "AgIAAPsAAAAAAAAAAADwvxIBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:23:24.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Chartist.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Chartist.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Chartist.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAADwv9UAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:23:10.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Chartjs.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Chartjs.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Chartjs.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv3sAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:22:58.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Morris.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Morris.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Morris.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:22:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Flot.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Flot.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Flot.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv2wAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:22:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Sparkline.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Sparkline.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Charts\\Sparkline.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv3MAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:23:18.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Calender.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\App\\Calender.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\App\\Calender.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:12:16.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\App\\Profile.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\App\\Profile.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:12:39.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "page-error-404.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\page-error-404.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\page-error-404.html",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwG4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T09:27:36.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\PageController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\PageController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:08:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\TableController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:03:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FormsController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\FormsController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\FormsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:01:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ComponentsController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\ComponentsController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\ComponentsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:40:01.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UIComponentsController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\UIComponentsController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\UIComponentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:24:59.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChartsController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\ChartsController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\ChartsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:20:09.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\AppController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\AppController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:11:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "email-compose.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-compose.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-compose.html",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAAAOYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T08:07:49.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Compose.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Compose.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Compose.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2UAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:05:17.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\EmailController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:03:21.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "email-read.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-read.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-read.html",
+              "ViewState": "AgIAAAcCAAAAAAAAAAAAAIoBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T08:06:54.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Read.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Read.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv4AAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:05:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "email-inbox.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-inbox.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\email-inbox.html",
+              "ViewState": "AgIAAMoCAAAAAAAAAAAAAN4CAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T08:06:10.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Inbox.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Email\\Inbox.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T08:04:52.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Layout\\Index.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Layout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T07:54:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:19:38.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "layout-two-column.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\layout-two-column.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\layout-two-column.html",
+              "ViewState": "AgIAALgBAAAAAAAAAAAAAMwBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T07:59:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "LayoutController.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Controllers\\LayoutController.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Controllers\\LayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:54:13.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\index.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\index.html",
+              "ViewState": "AgIAANMDAAAAAAAAAAAkwOMDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T04:16:03.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "chart-chartjs.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\chart-chartjs.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\chart-chartjs.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-25T07:13:04.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "logo.png",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\logo.png",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\logo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-25T06:53:10.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "favicon.png",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\favicon.png",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-25T07:02:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "logo-compact.png",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\logo-compact.png",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\AdminCarInsurance\\images\\logo-compact.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-25T07:02:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20241123201119_carinsurance.cs",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Migrations\\20241123201119_carinsurance.cs",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Migrations\\20241123201119_carinsurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:53:45.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "buttons.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Admin\\buttons.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Admin\\buttons.html",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAnwFYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T21:09:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "404.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Admin\\404.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Admin\\404.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T21:09:30.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "activity_stream.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Admin\\activity_stream.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Admin\\activity_stream.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T21:09:32.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "500.html",
+              "DocumentMoniker": "D:\\T2307A\\CarInsuranceManage\\Admin\\500.html",
+              "ToolTip": "D:\\T2307A\\CarInsuranceManage\\Admin\\500.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T21:09:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "MomoConfig.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Momo\\Config\\MomoConfig.cs",
+              "RelativeDocumentMoniker": "Momo\\Config\\MomoConfig.cs",
+              "ToolTip": "C:\\laragon\\www\\G3\\CarInsuranceManage\\Momo\\Config\\MomoConfig.cs",
+              "RelativeToolTip": "Momo\\Config\\MomoConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:59:10.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

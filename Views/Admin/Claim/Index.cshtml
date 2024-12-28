@@ -1,0 +1,86 @@
+@* @model CarInsuranceManage.Models.Claim
+
+@{
+    Layout = "_Layout";  // Đảm bảo sử dụng layout chính của ứng dụng
+}
+
+<div class="container my-5">
+    <h2 class="text-center mb-4">Yêu Cầu Bồi Thường</h2>
+    <form method="post" class="needs-validation" novalidate>
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Họ tên khách hàng -->
+                <div class="form-group">
+                    <label for="customer_full_name">Họ và Tên</label>
+                    <input type="text" class="form-control" id="customer_full_name" name="customer_full_name" value="@Model.customer_full_name" required>
+                    <div class="invalid-feedback">Vui lòng nhập họ và tên.</div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <!-- Email -->
+                <div class="form-group">
+                    <label for="customer_email">Email</label>
+                    <input type="email" class="form-control" id="customer_email" name="customer_email" value="@Model.customer_email" required>
+                    <div class="invalid-feedback">Vui lòng nhập email hợp lệ.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <!-- Số điện thoại -->
+                <div class="form-group">
+                    <label for="customer_phone">Số Điện Thoại</label>
+                    <input type="text" class="form-control" id="customer_phone" name="customer_phone" value="@Model.customer_phone" required>
+                    <div class="invalid-feedback">Vui lòng nhập số điện thoại.</div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <!-- Trạng thái yêu cầu -->
+                <div class="form-group">
+                    <label for="status">Trạng Thái</label>
+                    <select class="form-control" id="status" name="status" required>
+                        <option value="Pending" @if(Model.status == CarInsuranceManage.Models.ClaimStatus.Pending) { @:selected }>Đang xử lý</option>
+                        <option value="Approved" @if(Model.status == CarInsuranceManage.Models.ClaimStatus.Approved) { @:selected }>Thành công</option>
+                        <option value="Rejected" @if(Model.status == CarInsuranceManage.Models.ClaimStatus.Rejected) { @:selected }>Từ chối</option>
+                        <option value="Resolved" @if(Model.status == CarInsuranceManage.Models.ClaimStatus.Resolved) { @:selected }>Đã giải quyết</option>
+                    </select>
+                    <div class="invalid-feedback">Vui lòng chọn trạng thái.</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mô tả yêu cầu -->
+        <div class="form-group">
+            <label for="description">Mô Tả Yêu Cầu</label>
+            <textarea class="form-control" id="description" name="description" rows="4" required>@Model.description</textarea>
+            <div class="invalid-feedback">Vui lòng nhập mô tả chi tiết.</div>
+        </div>
+
+        <!-- Nút gửi -->
+        <div class="form-group text-center">
+            <button type="submit" class="btn btn-primary btn-lg">Gửi Yêu Cầu</button>
+        </div>
+    </form>
+</div>
+
+<!-- Javascript để kích hoạt tính năng validataion của form -->
+<script>
+    // Lấy tất cả các form
+    var forms = document.querySelectorAll('.needs-validation');
+
+    // Lặp qua mỗi form để kích hoạt validation
+    Array.prototype.slice.call(forms)
+        .forEach(function (form) {
+            form.addEventListener('submit', function (event) {
+                if (!form.checkValidity()) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+
+                form.classList.add('was-validated');
+            }, false);
+        });
+</script> *@

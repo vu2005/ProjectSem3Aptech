@@ -1,0 +1,68 @@
+<h1></h1>
+<p>.</p>
+
+
+<section class="page-title">
+    <div class="background-container">
+        <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+        <img class="right-image" src="~/customer-assets/images/background/2.jpg" alt="" />
+    </div>
+    <div class="service-container">
+        <div class="section-icons-outer parallax-scene-1">
+            <div data-depth="0.20" class="pattern-layer"
+                style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+            </div>
+        </div>
+
+        <div class="auto-container">
+            <h1>Payment</h1>
+            <ul class="page-breadcrumb">
+                <li>Payment</li>
+                <li>Payment Faild!</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- End Page Title -->
+
+<!-- Login Section -->
+<section class="login-section style-two">
+    <div class="auto-container">
+        <div class="login-box">
+            <div class="section-icons-outer parallax-scene-2">
+                <div data-depth="0.20" class="icon-layer-one"
+                    style="background-image: url('@Url.Content("~/customer-assets/images/icons/icon-1.png")')">
+                </div>
+                <div data-depth="0.40" class="icon-layer-two"
+                    style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-4.png")')">
+                </div>
+            </div>
+            <div class="styled-form">
+                <div style="text-align: center;">
+                    <h1 style="color: red;">Payment Faild</h1>
+                    <table style="margin: 0 auto;">
+                        <tr>
+                            <td>Payment failed, please try again.</td>
+                        </tr>
+
+                    </table>
+                    <!-- Back to Home Button -->
+                    <div style="margin-top: 20px;">
+                        <button id="back_home_button"
+                            style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+                            Back to Home
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+@await Html.PartialAsync("_SendMail")
+<script>
+    // Add event listener to the Back to Home button
+    document.getElementById('back_home_button').addEventListener('click', function () {
+        window.location.href = '@Url.Action("Index", "Home")';
+    });
+</script>

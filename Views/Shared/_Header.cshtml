@@ -1,0 +1,118 @@
+<header class="main-header header-style-two">
+    <div class="header-upper">
+        <div class="auto-container">
+            <div class="inner-container clearfix">
+                <div class="logo-box">
+                    <div class="logo">
+                        <a asp-area="" asp-controller="Home" asp-action="Index"><img
+                                src="~/customer-assets/images/logo.png" alt="" title="" /></a>
+                    </div>
+                </div>
+                <div class="nav-outer clearfix">
+                    <div class="mobile-nav-toggler">
+                        <span class="icon flaticon-menu-2"></span>
+                    </div>
+                    <nav class="main-menu navbar-expand-md">
+                        <div class="navbar-header">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                            <ul class="navigation clearfix">
+                                <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                                <li><a asp-area="" asp-controller="About" asp-action="Index">About Us</a>
+                                </li>
+                                <li class="dropdown">
+                                    <a asp-area="" asp-controller="Insurance" asp-action="services">Services</a>
+                                    <ul>
+                                        <li><a asp-area="" asp-controller="insurance" asp-action="car_details"
+                                                asp-route-id="1">Moto Insurance</a></li>
+                                        <li><a asp-area="" asp-controller="insurance" asp-action="car_details"
+                                                asp-route-id="2">Car Insurance</a></li>
+                                        <li><a asp-area="" asp-controller="insurance" asp-action="car_details"
+                                                asp-route-id="3">truck Insurance</a></li>
+                                        <li><a asp-area="" asp-controller="Claim" asp-action="Index">
+                                                Claim compensation</a></li>
+
+                                    </ul>
+
+                                </li>
+                                <li><a asp-area="" asp-controller="Blog" asp-action="Index">Blog</a></li>
+                                <li><a asp-area="" asp-controller="Contact" asp-action="Index">Contact
+                                        us</a></li>
+                                <li>
+                                    @if (User.Identity.IsAuthenticated)
+                                    {
+                                    <li style="padding-left: 60px;">
+                                        <a asp-area="" asp-controller="Account" asp-action="ProfileForCustomer">
+                                            <img style="height: 40px; width: 40px; border-radius: 50%; margin-top: -5px;"
+                                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEm6PLJe9kcUX4umLQ5m_YJNu5mBlsPA5v8g&s"
+                                                alt="User Image">
+                                        </a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#">@User.Identity.Name</a>
+                                        <ul>
+                                            <li><a asp-area="" asp-controller="Account" asp-action="ProfileForCustomer">My
+                                                    Profile</a></li>
+
+                                            <li><a asp-area="" asp-controller="Account" asp-action="Logout">Sign
+                                                    Out</a></li>
+                                        </ul>
+                                    </li>
+                                    }
+                                    else
+                                    {
+                                    <li>
+                                        <a asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                                    </li>
+                                    <li>
+                                        <a asp-area="" asp-controller="Account" asp-action="Register">Register</a>
+                                    </li>
+                                    }
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sticky-header">
+        <div class="auto-container clearfix">
+            <!--Logo-->
+            <div class="logo pull-left">
+                <a asp-area="" asp-controller="Home" asp-action="Index" title="">
+                    <img src="~/customer-assets/images/logo-small.png" alt="" title="" />
+                </a>
+            </div>
+            <div class="pull-right">
+                <div class="mobile-nav-toggler">
+                    <span class="icon flaticon-menu-2"></span>
+                </div>
+                <nav class="main-menu">
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="mobile-menu">
+        <div class="menu-backdrop"></div>
+        <div class="close-btn">
+            <span class="icon flaticon-multiply"></span>
+        </div>
+
+        <nav class="menu-box">
+            <div class="nav-logo">
+                <a asp-area="" asp-controller="Home" asp-action="Index"><img src="~/customer-assets/images/logo.png"
+                        alt="" title="" /></a>
+            </div>
+            <div class="menu-outer">
+            </div>
+        </nav>
+    </div>
+</header>

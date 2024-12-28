@@ -1,0 +1,62 @@
+<!-- Đăng nhập qua số điện thoại -->
+<section class="page-title">
+  <div class="background-container">
+    <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+    <img class="right-image" class="right-image" src="~/customer-assets/images/background/4.jpg" alt="" />
+  </div>
+  <div class="service-container">
+    <div class="section-icons-outer parallax-scene-1">
+      <div data-depth="0.20" class="pattern-layer"
+        style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+      </div>
+    </div>
+
+    <div class="auto-container">
+      <h1>Login In</h1>
+      <ul class="page-breadcrumb">
+        <li>Account</li>
+        <li>Login Phone</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="login-section">
+  <div class="auto-container">
+    <div class="login-box">
+      <!-- Display Warning Message -->
+      @if (TempData["WarningMessage"] != null)
+      {
+        <div class="alert alert-warning">
+          @TempData["WarningMessage"]
+        </div>
+      }
+
+      <!-- Sec Title -->
+      <div class="title-box">
+        <h2>Login Phone</h2>
+        <div class="text">
+          After you enter your phone number and press send we will send you an otp code
+        </div>
+      </div>
+      <div class="form-box">
+        <div class="styled-form">
+          <!-- Phone Login Form -->
+          <form method="post" asp-action="SendOtp" asp-controller="LoginPhone">
+            <div class="form-group">
+              <label>Enter your Phone Number</label>
+              <span class="icon flaticon-phone"></span>
+              <input type="text" name="phone" value="" placeholder="Phone Number" required />
+            </div>
+            <div class="form-group text-center">
+              <button type="submit" class="theme-btn btn-style-one">
+                <span class="txt" style="text-align: center;">Send OTP <i class="fa fa-arrow-right"></i></span>
+              </button>
+            </div>
+          </form>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+@await Html.PartialAsync("_SendMail")

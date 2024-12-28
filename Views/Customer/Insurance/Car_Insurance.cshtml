@@ -1,0 +1,44 @@
+<section class="page-title">
+    <div class="background-container">
+        <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+        <img class="right-image" src="~/customer-assets/images/background/insurance-form-right-bg.png" alt="" />
+    </div>
+    <div class="service-container">
+        <div class="section-icons-outer parallax-scene-1">
+            <div data-depth="0.20" class="pattern-layer"
+                style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+            </div>
+        </div>
+        <div class="auto-container">
+            <h1>Insurance Form</h1>
+            <ul class="page-breadcrumb">
+                <li>Home</li>
+                <li></li> <!-- Hiển thị tên dịch vụ -->
+            </ul>
+        </div>
+    </div>
+
+</section>
+
+<section class="insurance-page-section">
+    <div class="auto-container">
+        <div class="inner-container">
+            <div class="sec-title">
+                <h2>
+                    Up to 50% Off* on <br />
+
+                </h2>
+                <div class="text">
+                    We are a professional and creative company and we offer you a
+                    trusty insurance on <br />
+                    your vehicle.
+                </div>
+            </div>
+
+
+            @await Html.PartialAsync("_Form_pay")
+        </div>
+    </div>
+</section>
+
+@await Html.PartialAsync("_SendMail")

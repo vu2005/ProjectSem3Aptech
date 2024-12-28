@@ -1,0 +1,29 @@
+@model CarInsuranceManage.Models.User
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="content-body">
+    <div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-danger text-white text-center">
+                    <h4 style="color: white;">Delete Account</h4>
+                </div>
+                <div class="card-body">
+                    <h5 class="text-center text-danger">Are you sure you want to delete the account <strong>@Model.username</strong>?</h5>
+                    <form asp-action="DeleteConfirmed" method="post">
+                        <input type="hidden" asp-for="user_id" />
+                        <div class="d-flex justify-content-between mt-4">
+                            <button type="submit" class="btn btn-danger w-48">Yes, Delete</button>
+                            <a asp-action="Index" class="btn btn-secondary w-48 text-decoration-none text-white text-center">No, Go Back</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,333 @@
+@model CarInsuranceManage.Models.InsuranceService
+
+<head>
+    <link href="~/customer-assets/css/bootstrap.min2.css" rel="stylesheet" />
+    <link href="~/customer-assets/css/style33a7.css?v=2414" rel="stylesheet" />
+    <link href="~/customer-assets/css/responsive33a7.css?v=2414" rel="stylesheet" />
+    <!--SCRIPT-->
+    <script src="~/customer-assets/js/jquery.min.js"></script>
+    <script src="~/customer-assets/js/validate/jquery.validate.js"></script>
+    <script src="~/customer-assets/js/wow.min.js"></script>
+</head>
+<style>
+    .inner-container.clearfix {
+        margin-top: -70px;
+    }
+</style>
+<section id="ca-nhan" class="chi_tiet ca_nhan nhut_style " style="margin-top: 100px; margin-bottom: 500px;">
+    <div class="banner_ca_nhan">
+        <div class="container">
+            <div class="wap_banner">
+                <img class="w-100 pc" src="~/@Model.image_url" />
+                <img class="w-100 mb" src="~/@Model.image_url" />
+                <div class="banner_bot">
+                    <div class="row no-gutters justify-content-between">
+                        <div class="col-lg-7">
+                            <div class="d-lg-flex">
+                                <div class="banner_title">Compulsory @Model.service_name CIS - Accidents in cars</div>
+                                <div class="ml-lg-5 lh_1">
+                                    <div class="d-flex align-items-center h-100">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="fs_14">
+                                <p>Compulsory TNDS Insurance - Personal Accident in a car will provide you with
+                                    protection against financial risks caused by accidents while driving. With a
+                                    customer care team spread across provinces and cities nationwide and a 24/7 hotline,
+                                    @Model.description</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-auto text-lg-right">
+                            <div class="d-flex d-lg-block mb-2">
+                                <div class="clearfix lh_1 fs_14 mb-lg-2">
+                                    <span class="mr-3">Insurance from:</span><strong
+                                        class="price_bh">$@(Model.price?.ToString("C") ?? string.Empty)
+</strong>
+
+                                </div>
+                            </div>
+                            <div class="d-flex mb-3">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row no-gutters justify-content-between">
+                        <div class="col-lg-auto order-lg-1">
+                            <div class="wap_btn wap_btn_new mt-2 mt-lg-0">
+
+                                <a asp-controller="Insurance" asp-action="Car_Insurance" asp-route-id="@Model.service_id"
+                                    class="btn_tht">Charge</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-7 order-lg-0">
+                            <div class="wap_nav">
+                                <nav class="nav nav_banner">
+                                    <a class="nav_item fs_12" asp-controller="Blog" asp-action="Index" target="_blank">
+                                        <img class="nav_icon mr-lg-2" src="~/customer-assets/images/icon_tu_van.png"
+                                            alt=""><span class="txt">Online Consulting</span>
+                                    </a>
+                                    <a class="nav_item fs_12 ml-3" href="../../yeu-cau-goi-lai.html">
+                                        <img class="nav_icon mr-lg-2" src="~/customer-assets/images/icon_phone.png"
+                                            alt=""><span class="txt">Request a call back</span>
+                                    </a>
+                                    <div class="nav_item fs_12 ml-3 dropup">
+                                        <a href="javascript:void(0);" data-toggle="dropdown">
+                                            <img class="nav_icon mr-lg-2" src="~/customer-assets/images/icon_share.png"
+                                                alt=""><span class="txt">Share</span>
+                                        </a>
+                                        <div class="dropdown-menu dropup_share fs_14">
+                                            <a href="javascript:void(0);" class="item"
+                                                onclick="facebookShareLink('bao-hiem-bat-buoc-tnds-tai-nan-nguoi-tren-xe-o-to.html')">
+                                                <i class="fab fa-facebook-f"></i>
+                                            </a>
+                                            <a href="../../../cdn-cgi/l/email-protection.html#4c733f392e26292f38710eadf6ef236c2425adf7cf216c0eadf6e3386c2e39adf7d52f6c1802081f6c616c182d256c22adf6ed226c222b8afcadf7d1256c383e8fe6226c34296c8ff86c388ff86a2e232835712438383c3f7663632e2d233a252938232220252229622f2321623a22633a25632e2d236124252921612f2d6122242d22637a632e2d236124252921612e2d38612e39232f613822283f61382d2561222d2261222b39232561383e292261342961236138236224382120"
+                                                class="item">
+                                                <i class="fal fa-envelope"></i>
+                                            </a>
+                                            <a href="javascript:void(0);" class="item"
+                                                onclick="copyLink('bao-hiem-bat-buoc-tnds-tai-nan-nguoi-tren-xe-o-to.html')">
+                                                <i class="fal fa-share-alt"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input type="text" name="copyLink" id="copyLink" value="" style="opacity:0;position:absolute;bottom:0;z-index:-1;"
+        contenteditable="true" readonly="false" />
+    <div class="clearfix container">
+        <div class="nav_ca_nhan">
+            <nav class="nav justify-content-center">
+                <a data-target="#diem-uu-viet" href="javascript:void(0);" class="nav_item nav-link active"
+                    onclick="detailScrollToSection('diem-uu-viet');">Advantages</a>
+                <a data-target="#doi-tuong" href="javascript:void(0);" class="nav_item nav-link "
+                    onclick="detailScrollToSection('doi-tuong');">Object</a>
+                <a data-target="#quyen-loi-chinh" href="javascript:void(0);" class="nav_item nav-link "
+                    onclick="detailScrollToSection('quyen-loi-chinh');">Main benefits</a>
+                <a data-target="#thong-tin-lien-he" href="javascript:void(0);" class="nav_item nav-link "
+                    onclick="detailScrollToSection('thong-tin-lien-he');">Contact information</a>
+                <a data-target="#tai-lieu-bieu-mau" href="javascript:void(0);" class="nav_item nav-link "
+                    onclick="detailScrollToSection('tai-lieu-bieu-mau');">Form Documentation</a>
+                <a data-target="#cau-hoi-thuong-gap" href="javascript:void(0);" class="nav_item nav-link "
+                    onclick="detailScrollToSection('cau-hoi-thuong-gap');">Frequently Asked Questions</a>
+            </nav>
+        </div>
+        <div id="diem-uu-viet" class="diem_uu_viet">
+            <div class="nav_uu_viet">
+                <div class="nav">
+                    <div class="item">
+                        <div class="wap_item">
+                            <img class="icon_option_bh"
+                                src="~/customer-assets/uploads/product/b9c5e12b18f2899a979e5f5e4b4a68ec.png" />
+                            <div class="fs_14">Present in all provinces nationwide</div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="wap_item">
+                            <img class="icon_option_bh"
+                                src="~/customer-assets/uploads/product/4dc366f2ac9a8beac3232ba9443b0d57.png" />
+                            <div class="fs_14">Customers can choose insurance in packages or buy individually.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="wap_item">
+                            <img class="icon_option_bh"
+                                src="~/customer-assets/uploads/product/bf000035e486e6abf31d122d723bd6c0.png" />
+                            <div class="fs_14">Notice of free insurance contract renewal</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="san_pham_section">
+            <div class="accordion">
+                <div class="card" id="doi-tuong">
+                    <div class="sec_san_pham_head">
+                        <a data-toggle="collapse" data-target="#collapse_doi_tuong" aria-expanded="true"><i
+                                class="mr-2 small far fa-chevron-down"></i> Object</a>
+                    </div>
+                    <div class="collapse show" id="collapse_doi_tuong">
+                        <div class="card_body">
+                            <div class="clearfix list_option">
+                                <ul>
+                                    <li>
+                                        <p>Automobile manufacturers and distributors</p>
+                                    </li>
+                                    <li>
+                                        <p>Transport businesses, transporting goods by car</p>
+                                    </li>
+                                    <li>
+                                        <p>Domestic and foreign organizations currently using cars in Vietnam</p>
+                                    </li>
+                                    <li>
+                                        <p>Individual customers own cars, excluding pickup trucks, vans, and mini vans.
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" id="quyen-loi-chinh">
+                    <div class="sec_san_pham_head">
+                        <a data-toggle="collapse" data-target="#collapse_quyen_loi_chinh" aria-expanded="true"><i
+                                class="mr-2 small far fa-chevron-down"></i> Main benefits</a>
+                    </div>
+                    <div class="collapse show" id="collapse_quyen_loi_chinh">
+                        <div class="card_body">
+                            <div class="nav_quyen_loi">
+                                <div class="nav">
+                                    <div class="item">
+                                        <div class="d-block d-lg-flex align-items-center">
+                                            <img class="icon_quyen_loi mr-lg-3"
+                                                src="~/customer-assets/uploads/product/d2d404217200470b798af01117a4bf90.png" />
+                                            <div class="left">
+                                                <div class="fs_14">Accident & Claims Settlement Guide
+                                                    Compensation</div>
+                                                <div class="fs_12">24/7 hotline
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="d-block d-lg-flex align-items-center">
+                                            <img class="icon_quyen_loi mr-lg-3"
+                                                src="~/customer-assets/uploads/product/647e191728440cecde9bd7922c851ced.png" />
+                                            <div class="left">
+                                                <div class="fs_14">Compensation Services</div>
+                                                <div class="fs_12">Fast, neat, accurate</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tb_quyenloi">
+                                <div class="collapse" id="collapse_tb_quyenloi">
+                                    <div class="div_tb fs_14">
+                                        <div class="table-responsive">
+                                            <table border="0" cellpadding="0" cellspacing="0" style="width:1100px">
+                                                <thead>
+                                                    <tr>
+                                                        <th scope="col">VEHICLE OWNER'S CIVIL LIABILITY INSURANCE</th>
+                                                        <th scope="col">DRIVER AND PASSENGER ACCIDENT INSURANCE</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Compulsory civil liability insurance as prescribed by the
+                                                                State when participating in traffic compensates for:
+                                                            </p>
+
+                                                            <p>&nbsp;</p>
+
+                                                            <p>- Damage to the body, life and property of a third party
+                                                                caused by a motor vehicle
+
+                                                            </p>
+
+                                                            <p>&nbsp;</p>
+
+                                                            <p>High-level voluntary civil liability insurance
+                                                                compensates for:</p>
+
+                                                            <p>&nbsp;</p>
+
+                                                            <p>- Damage to the body, life and property of a third party
+                                                                caused by a motor vehicle with a high level of liability
+                                                                (up to 10 billion VND/person/case)</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>Driver and Passenger Accident Insurance covers:</p>
+
+                                                            <p>&nbsp;</p>
+
+                                                            <p>Bodily injury to the driver and passengers while the
+                                                                vehicle is in traffic.
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="text-center mt-3">
+                                    <a class="btn_seemore btn_expand" data-toggle="collapse"
+                                        href="#collapse_tb_quyenloi" role="button" aria-expanded="false"
+                                        aria-controls="collapse_tb_quyenloi">
+                                        <span class="txt txt_1">View benefits details</span>
+                                        <span class="txt txt_2">Collapse</span><i
+                                            class="ml-2 small far fa-chevron-down"></i>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" id="thong-tin-lien-he">
+                    <div class="sec_san_pham_head">
+                        <a data-toggle="collapse" data-target="#collapse_thong_tin_lien_he" aria-expanded="false"><i
+                                class="mr-2 small far fa-chevron-down"></i>Contact information</a>
+                    </div>
+                    <div class="collapse " id="collapse_thong_tin_lien_he">
+                        <div class="card_body">
+                            <div class="pt-lg-3">
+                                <div class="row no-gutters justify-content-between wap_lienhe">
+                                    <div class="col-left">
+                                        <div class="txt position-relative z-1 mb-3 mb-lg-0">
+                                            <div class="txt1 mb-2">
+                                                <p>Contact information<br />for individuals</p>
+                                            </div>
+                                            <div class="txt2">
+                                                <p>We will contact and advise for free</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-right col-lg-auto">
+                                        <img src="~/customer-assets/images/thong-tin-lien-he.png" alt=""
+                                            class="img_lienhe_form position-absolute">
+                                        @await Html.PartialAsync("_Form_insurance")
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card" id="cau-hoi-thuong-gap">
+                    <div class="sec_san_pham_head">
+                        <a data-toggle="collapse" data-target="#collapse_cau_hoi_thuong_gap" aria-expanded="false"><i
+                                class="mr-2 small far fa-chevron-down"></i> FAQ</a>
+                    </div>
+                    <div class="collapse" id="collapse_cau_hoi_thuong_gap">
+                        <div class="card_body">
+                            <div class="row no-gutters">
+                                @await Html.PartialAsync("_Quesion_insurance")
+                                <div class="col-lg-3 pl-lg-3">
+                                    <div class="d-lg-flex">
+                                        <div class="pc ml-auto tai_lieu_bieu_mau cau_hoi_thuong_gap">
+                                            <img class="w-100" src="~/customer-assets/images/cau_hoi_thuong_gap.png" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+<!-- GENERAL CSS - JS -->
+<link href="~/customer-assets/css/import0bda.css?v=6016" rel="stylesheet" />
+<script src="~/customer-assets/js/bootstrap.bundle.min.js"></script>
+<script src="~/customer-assets/js/jquery.scrollTo.min.js"></script>

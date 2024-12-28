@@ -1,0 +1,11 @@
+User: Chứa thông tin người dùng như tên đăng nhập, mật khẩu, email, và quyền (admin/customer).
+Customer: Thông tin của khách hàng, liên kết với bảng User.
+Vehicle: Thông tin xe của khách hàng, liên kết với Customer.
+InsurancePolicy: Các hợp đồng bảo hiểm, liên kết với Customer và Vehicle.
+Claim: Yêu cầu bồi thường bảo hiểm, liên kết với InsurancePolicy.
+Comment: Bình luận của khách hàng, có thể có các trả lời (cấp con).
+Contact: Thông tin liên lạc của khách hàng.
+CustomerSupportRequest: Yêu cầu hỗ trợ của khách hàng, liên kết với User (người giải quyết).
+Notification: Thông báo gửi cho khách hàng.
+Payment: Thông tin thanh toán của khách hàng cho hợp đồng bảo hiểm.
+Services: Các dịch vụ liên quan đến hợp đồng bảo hiểm.

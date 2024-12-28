@@ -1,0 +1,170 @@
+<form asp-action="" asp-controller="Paymoney"  id="frmPersonalContact"
+    method="post" accept-charset="utf-8">
+    <input type="hidden" name="csrf_site_name" value="b9199699efa1d31bf50c1558becd1a15" />
+    <div class="lienhe_form position-relative z-1">
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <div class="form-label-group">
+                    <input type="text" name="name" id="name" class="form-control" placeholder="Họ tên" value="">
+                    <label for="name"><span>Full Name <i class="text-danger">*</i></span></label>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6">
+                <div class="form-label-group">
+                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Số điện thoại" value=""
+                        maxlength="10">
+                    <label for="phone"><span>Number Phone <i class="text-danger">*</i></span></label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <div class="form-label-group">
+                    <input type="text" name="email" id="email" class="form-control" placeholder="Địa chỉ email"
+                        value="">
+                    <label for="email"><span>email Adrress <i class="text-danger">*</i></span></label>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6">
+                <div class="form-label-group">
+                    <select required="" name="city" id="select_city" class="form-control custom-select">
+                        <option value="" selected=""></option>
+                        <option value="Toàn Quốc">Toàn Quốc</option>
+                        <option value="Hồ Chí Minh">Hồ Chí Minh
+                        </option>
+                        <option value="Hà Nội">Hà Nội</option>
+                        <option value="An Giang">An Giang</option>
+                        <option value="Bà Rịa - Vũng Tàu">Bà Rịa -
+                            Vũng Tàu</option>
+                        <option value="Bắc Giang">Bắc Giang</option>
+                        <option value="Bắc Kạn">Bắc Kạn</option>
+                        <option value="Bạc Liêu">Bạc Liêu</option>
+                        <option value="Bắc Ninh">Bắc Ninh</option>
+                        <option value="Bến Tre">Bến Tre</option>
+                        <option value="Bình Dương">Bình Dương
+                        </option>
+                        <option value="Bình Phước">Bình Phước
+                        </option>
+                        <option value="Bình Thuận">Bình Thuận
+                        </option>
+                        <option value="Bình Định">Bình Định</option>
+                        <option value="Cà Mau">Cà Mau</option>
+                        <option value="Cần Thơ">Cần Thơ</option>
+                        <option value="Cao Bằng">Cao Bằng</option>
+                        <option value="Gia Lai">Gia Lai</option>
+                        <option value="Hà Giang">Hà Giang</option>
+                        <option value="Hà Nam">Hà Nam</option>
+                        <option value="Hà Tĩnh">Hà Tĩnh</option>
+                        <option value="Hải Dương">Hải Dương</option>
+                        <option value="Hải Phòng">Hải Phòng</option>
+                        <option value="Hậu Giang">Hậu Giang</option>
+                        <option value="Hòa Bình">Hòa Bình</option>
+                        <option value="Hưng Yên">Hưng Yên</option>
+                        <option value="Khánh Hòa">Khánh Hòa</option>
+                        <option value="Kiên Giang">Kiên Giang
+                        </option>
+                        <option value="Kon Tum">Kon Tum</option>
+                        <option value="Lai Châu">Lai Châu</option>
+                        <option value="Lâm Đồng">Lâm Đồng</option>
+                        <option value="Lạng Sơn">Lạng Sơn</option>
+                        <option value="Lào Cai">Lào Cai</option>
+                        <option value="Long An">Long An</option>
+                        <option value="Nam Định">Nam Định</option>
+                        <option value="Nghệ An">Nghệ An</option>
+                        <option value="Ninh Bình">Ninh Bình</option>
+                        <option value="Ninh Thuận">Ninh Thuận
+                        </option>
+                        <option value="Phú Thọ">Phú Thọ</option>
+                        <option value="Phú Yên">Phú Yên</option>
+                        <option value="Quảng Bình">Quảng Bình
+                        </option>
+                        <option value="Quảng Nam">Quảng Nam</option>
+                        <option value="Quảng Ngãi">Quảng Ngãi
+                        </option>
+                        <option value="Quảng Ninh">Quảng Ninh
+                        </option>
+                        <option value="Quảng Trị">Quảng Trị</option>
+                        <option value="Sóc Trăng">Sóc Trăng</option>
+                        <option value="Sơn La">Sơn La</option>
+                        <option value="Tây Ninh">Tây Ninh</option>
+                        <option value="Thái Bình">Thái Bình</option>
+                        <option value="Thái Nguyên">Thái Nguyên
+                        </option>
+                        <option value="Thanh Hóa">Thanh Hóa</option>
+                        <option value="Thừa Thiên Huế">Thừa Thiên
+                            Huế</option>
+                        <option value="Tiền Giang">Tiền Giang
+                        </option>
+                        <option value="Trà Vinh">Trà Vinh</option>
+                        <option value="Tuyên Quang">Tuyên Quang
+                        </option>
+                        <option value="Vĩnh Long">Vĩnh Long</option>
+                        <option value="Vĩnh Phúc">Vĩnh Phúc</option>
+                        <option value="Yên Bái">Yên Bái</option>
+                        <option value="Đà Nẵng">Đà Nẵng</option>
+                        <option value="Đắk Lắk">Đắk Lắk</option>
+                        <option value="Đắk Nông">Đắk Nông</option>
+                        <option value="Điện Biên">Điện Biên</option>
+                        <option value="Đồng Nai">Đồng Nai</option>
+                        <option value="Đồng Tháp">Đồng Tháp</option>
+                    </select>
+                    <label for="select_city">Province/City <i class="text-danger">*</i></label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="txt_warning mt-0 mb-3">(<i class="text-danger">*</i>) Necessary information</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mb-3">
+                <div class="custom-control-style">
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" id="checkAgree" name="agree" value="1" checked="true"
+                            class="custom-control-input" onchange="changeFrmChkAgree('btnPersonalContact',this);" />
+                        <label class="custom-control-label text-body fs_12px" for="checkAgree">
+                            <p>I have read and agree to Bao Viet Insurance's
+                                Information Security Policy.</p>
+                        </label>
+                    </div>
+                </div>
+                <div class="custom-control-style">
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" id="checkAllowContact" name="allow_contact" value="1" checked="true"
+                            class="custom-control-input" />
+                        <label class="custom-control-label text-body fs_12px" for="checkAllowContact">
+                            <p>I confirm that in addition to Bao Viet Insurance,
+                                agents authorized by Bao Viet Insurance may
+                                contact me for advice on Bao Viet Insurance
+                                products, services or promotions.</p>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="d-flex align-items-center lh_group_btn justify-content-center justify-content-lg-start">
+                    <div class="capcha" id="html-reCaptchaRD">
+                        <div id="reCaptchaRD" class="g-recaptcha">
+                        </div>
+                    </div>
+                    <input type="hidden" name="product_id" value="6" />
+                    <button type="submit" name="btnPersonalContact" id="btnPersonalContact"
+                        onclick="savePersonalContact(this);"
+                        class="btn_web set_h width_auto ml-lg-3 mt-2 mt-lg-0 btn_gray active"><span>Send</span></button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="ycgl_note mt-4"><img src="~/customer-assets/images/ycgl_note.png" alt="BAOVIET">
+                    <p>All your information will be kept completely
+                        confidential, we promise not to provide information to
+                        third parties.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

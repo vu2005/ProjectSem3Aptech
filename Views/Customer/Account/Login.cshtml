@@ -1,0 +1,133 @@
+<section class="page-title">
+    <div class="background-container">
+        <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+        <img class="right-image" class="right-image" src="~/customer-assets/images/background/4.jpg" alt="" />
+    </div>
+    <div class="service-container">
+        <div class="section-icons-outer parallax-scene-1">
+            <div data-depth="0.20" class="pattern-layer"
+                style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+            </div>
+        </div>
+
+        <div class="auto-container">
+            <h1>Login In</h1>
+            <ul class="page-breadcrumb">
+                <li>Account|Login</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- End Page Title -->
+
+<!-- Login Section -->
+<section class="login-section">
+    <div class="auto-container">
+        <div class="login-box">
+            <!-- Display Success or Error Message -->
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["SuccessMessage"]
+                </div>
+            }
+            @if (TempData["Message"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["Message"]
+                </div>
+            }
+
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["ErrorMessage"]
+                </div>
+            }
+            @if (TempData["MessageSendMailSupportRequestError"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["MessageSendMailSupportRequestError"]
+                </div>
+            }
+            @if (TempData["MessageSendMailSupportRequestSuccess"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["MessageSendMailSupportRequestSuccess"]
+                </div>
+            }
+            @if (TempData["WarningMessage"] != null)
+            {
+                <div class="alert alert-warning">
+                    @TempData["WarningMessage"]
+                </div>
+            }
+
+            <!-- Sec Title -->
+            <div class="title-box">
+                <h2>Login</h2>
+                <div class="text">
+                    You Don't Have Email? It's okay, please log in with your phone number? <a asp-action="Login_Phone"
+                        asp-controller="Account">Here</a>
+                </div>
+            </div>
+            <div class="form-box">
+                <div class="styled-form">
+                    <form method="post" asp-action="Login" asp-controller="LoginDB">
+                        <div class="form-group">
+                            <label>Enter your Email</label>
+                            <span class="icon flaticon-envelope"></span>
+                            <input type="email" name="email" value="" placeholder="Email" required />
+                        </div>
+                        <div class="form-group">
+                            <label>Enter your Password</label>
+                            <span class="icon flaticon-padlock-1"></span>
+                            <input type="password" name="password" id="input-pass" value="" placeholder="Password"
+                                required />
+                            <span class="eye-icon flaticon-eye" id="show-pass"></span>
+                        </div>
+                        <div class="form-group">
+                            <div class="clearfix">
+                                <div class="pull-left">
+                                    <div class="check-box">
+                                        <input type="checkbox" name="remember-password" id="remember-me" />
+                                        <label for="remember-me">Remember Me</label>
+                                    </div>
+                                </div>
+                                <div class="pull-right">
+                                    <a href="@Url.Action("Forgot_Password", "Account")" class="forgot">Forgot your
+                                        Password?</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="theme-btn btn-style-one">
+                                <span class="txt">Login</span>
+                            </button>
+                        </div>
+                        <div class="form-group text-center" style="display: flex; justify-content: space-between">
+                            <a href="@Url.Action("LoginWithGoogle", "LoginGoogle")" class="social-btn google-btn">
+                                <img src="~/customer-assets/images/google.svg" alt="Google Login"
+                                    style="width: 100%; height: auto;" />
+                            </a>
+                            <a href="@Url.Action("LoginWithFacebook", "LoginFacebook")" class="social-btn facebook-btn">
+                                <img src="~/customer-assets/images/facebook.svg" alt="Facebook Login"
+                                    style="width: 100%; height: auto;" />
+                            </a>
+                        </div>
+                        <div class="form-group text-center">
+                            <div class="users" style="display: flex; justify-content: space-between;">
+                                Don't have an account?
+                                <a asp-controller="Account" asp-action="Register">Register</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@await Html.PartialAsync("_SendMail")
+
+<!-- End CTA Section -->

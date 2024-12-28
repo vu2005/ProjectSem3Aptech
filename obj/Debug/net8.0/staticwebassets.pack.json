@@ -1,0 +1,2881 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\Claim_pdf\\Claim_Form.pdf",
+      "PackagePath": "staticwebassets\\Claim_pdf\\Claim_Form.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\cis.webp",
+      "PackagePath": "staticwebassets\\admin-assets\\cis.webp"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin-assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\cryptocoins\\css\\cryptocoins-colors.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\cryptocoins\\css\\cryptocoins-colors.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\cryptocoins\\css\\cryptocoins.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\cryptocoins\\css\\cryptocoins.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\cryptocoins\\fonts\\cryptocoins.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\cryptocoins\\fonts\\cryptocoins.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff2",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\facebook.png",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\flag-icon-css\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\flag-icon-css\\flags\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff2",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfontd41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\font-awesome\\fonts\\fontawesome-webfontd41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\google.png",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\ionicons\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-arrows-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-music-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-software-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\fonts\\linea-weather-10d41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\linea-icons\\linea.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\linea-icons\\linea.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff2",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\material-design-iconic-font\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\material-design-iconic-font\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\pe-icon-set-weather\\css\\pe-icon-set-weather.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\pe-icon-set-weather\\css\\pe-icon-set-weather.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff2",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\themify-icons\\fonts\\themify9f249f24.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\themify-icons\\fonts\\themify9f249f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\themify-icons\\fonts\\themify9f249f24.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\themify-icons\\fonts\\themify9f249f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\themify-icons\\fonts\\themifyd41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\themify-icons\\fonts\\themifyd41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\11.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\card-1.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\card-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\card-2.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\card-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\card-3.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\card-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\card-4.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\card-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\img2.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\img3.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\img4.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\img5.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\big\\img6.jpg",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\big\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\blog\\1.html",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\blog\\1.html"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\blog\\2.html",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\blog\\2.html"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\blog\\3.html",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\blog\\3.html"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\blog\\4.html",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\blog\\4.html"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\logo-compact.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\logo-compact.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\logo-text.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\images\\user\\1.png",
+      "PackagePath": "staticwebassets\\admin-assets\\images\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\dashboard\\dashboard-1.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\dashboard\\dashboard-1.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\dashboard\\dashboard-2.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\dashboard\\dashboard-2.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\gleek.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\gleek.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\chartist.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\chartist.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\form-pickers-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\form-pickers-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\jquery-steps-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\jquery-steps-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\morris-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\morris-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\nouislider-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\nouislider-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\peitychart.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\peitychart.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\plugins-init\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\plugins-init\\sparkline.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\search.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\settings.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\js\\styleSwitcher.js",
+      "PackagePath": "staticwebassets\\admin-assets\\js\\styleSwitcher.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\logo-text.webp",
+      "PackagePath": "staticwebassets\\admin-assets\\logo-text.webp"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\chartist-plugin-tooltips\\css\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\chartist-plugin-tooltips\\css\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\chartist-plugin-tooltips\\js\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\chartist-plugin-tooltips\\js\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\chartist\\css\\chartist.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\chartist\\css\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\chartist\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\chartist\\js\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\common\\common.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\common\\common.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\flot\\js\\jquery.flot.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\flot\\js\\jquery.flot.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\flot\\js\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\flot\\js\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\flot\\js\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\flot\\js\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\flot\\js\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\flot\\js\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\flot\\js\\jquery.flot.spline.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\flot\\js\\jquery.flot.spline.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\css\\asColorPicker.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\css\\asColorPicker.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\dist\\jquery-asColorPicker.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\dist\\jquery-asColorPicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\alpha.png",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\hue.png",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\hue.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\saturation.png",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\saturation.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\transparent.png",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\images\\transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asColor.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asColor.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asGradient.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asGradient.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-steps\\build\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-steps\\build\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-steps\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-steps\\css\\jquery.steps.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\jqueryui\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\jqueryui\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\nestable\\css\\nestable.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\nestable\\css\\nestable.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\nestable\\js\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\nestable\\js\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\nestable\\js\\nestable.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\nestable\\js\\nestable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\pg-calendar\\css\\pignose.calendar.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\pg-calendar\\css\\pignose.calendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.svg",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\font\\summernoted41dd41d.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\font\\summernoted41dd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\font\\summernotef534f534.eot",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\font\\summernotef534f534.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\font\\summernotef534f534.ttf",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\font\\summernotef534f534.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\font\\summernotef534f534.woff",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\font\\summernotef534f534.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\summernote-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\summernote-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\summernote.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\summernote\\dist\\summernote.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\summernote\\dist\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\sweetalert\\css\\sweetalert.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\sweetalert\\css\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\sweetalert\\js\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\sweetalert\\js\\sweetalert.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\sweetalert\\js\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\sweetalert\\js\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\tables\\css\\datatable\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\tables\\css\\datatable\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\tables\\js\\datatable-init\\datatable-basic.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\tables\\js\\datatable-init\\datatable-basic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\tables\\js\\datatable\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\tables\\js\\datatable\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\tables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\tables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\toastr\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\toastr\\css\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\toastr\\js\\toastr.init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\toastr\\js\\toastr.init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\toastr\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\toastr\\js\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\validation\\jquery.validate-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\validation\\jquery.validate-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\weather\\js\\jquery.simpleWeather.min.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\weather\\js\\jquery.simpleWeather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\weather\\js\\weather-init.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\weather\\js\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\admin-assets\\plugins\\wnumb\\wNumb.js",
+      "PackagePath": "staticwebassets\\admin-assets\\plugins\\wnumb\\wNumb.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\bootstrap.min2.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\bootstrap.min2.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\color-switcher-design.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\color-switcher-design.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\coloring.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\coloring.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\colors\\scheme-01.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\colors\\scheme-01.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\footer.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\global.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\header.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\import0bda.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\import0bda.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\importd08b.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\importd08b.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery.countdown.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery.countdown.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\niceselect.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\niceselect.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\preloader.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\preloader.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\responsive33a7.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\responsive33a7.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\responsive9a04.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\responsive9a04.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\style33a7.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\style33a7.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\style9a04.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\style9a04.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\styleprofile.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\styleprofile.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Bd.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Bd.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Bd.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Bd.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Blk.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Blk.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Blk.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Blk.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Md.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Md.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Md.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Md.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Roman.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Roman.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Roman.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\HelveticaVn-Roman.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\HelveticaVn\\stylesheet.css",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\HelveticaVn\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticond41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-duotone-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-light-300d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\atm-card.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\atm-card.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\7.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\box-item-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\box-item-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\contact-right-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\contact-right-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\contact-us-2-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\contact-us-2-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\footer-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\header-left-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\header-left-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\home-2-header-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\home-2-header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\insurance-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\insurance-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\insurance-form-right-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\insurance-form-right-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\newsletter-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\newsletter-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-5.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-5.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-7.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-7.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-8.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-8.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-9.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-9.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\planes-group.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\planes-group.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\calender.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\calender.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\cau_hoi_thuong_gap.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\cau_hoi_thuong_gap.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\checkno.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\checkno.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\checkyes.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\checkyes.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\5.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\cross-out.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\cross-out.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\facebook.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\dotted-about-us-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\dotted-about-us-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\home-2-about-us-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\home-2-about-us-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\home-2-about-us-2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\home-2-about-us-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\home-2-about-us-3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\home-2-about-us-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\left-bg-rect.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\left-bg-rect.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\google.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\google.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\home-2-footer-logo.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\home-2-footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icon_download.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icon_download.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icon_phone.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icon_phone.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icon_share.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icon_share.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icon_tai_lieu_bieu_mau.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icon_tai_lieu_bieu_mau.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icon_tu_van.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icon_tu_van.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\icon-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\load-icon.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\load-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\quote-icon.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\quote-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\signature-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\signature-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\signature.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\slider-arrow.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\slider-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\logo-small.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\content-image.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\content-image.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-5.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-5.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-6.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-6.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\about.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-4.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\award.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\award.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\choose.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\choose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\experiance.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\experiance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\faq.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\faq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\help.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\help.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\insurance.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\insurance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\not-found.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\not-found.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\price.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\price.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\service-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\service-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\services.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\skill.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\skill.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\tai_lieu_bieu_mau.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\tai_lieu_bieu_mau.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\tai_lieu_bieu_mau_m.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\tai_lieu_bieu_mau_m.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\thong-tin-lien-he.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\thong-tin-lien-he.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\ycgl_note.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\ycgl_note.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\appear.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\checkform.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\checkform.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\color-settings.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\color-settings.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\icon.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\icon.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery-ui copy 2.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery-ui copy 2.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery-ui copy.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery-ui copy.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.scrollTo.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.scrollTo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\js.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\js.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\nav-tool.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\nav-tool.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\pay.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\pay.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\validate.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\validate\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\attachment\\467e2210559b53bbae7bdf569e421e7b.pdf",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\attachment\\467e2210559b53bbae7bdf569e421e7b.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\attachment\\5c376618b322ad01eb087a6ee1965357.pdf",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\attachment\\5c376618b322ad01eb087a6ee1965357.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\attachment\\6558d8c0a4286b6d79b20bbfab3ddec3.pdf",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\attachment\\6558d8c0a4286b6d79b20bbfab3ddec3.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\attachment\\a28f0c31be4a2ff2618c17a0a1365970.pdf",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\attachment\\a28f0c31be4a2ff2618c17a0a1365970.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\attachment\\da43442160f56501857f51256255246a.pdf",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\attachment\\da43442160f56501857f51256255246a.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\attachment\\da4ed369bece685f3b962d524569d3fb.pdf",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\attachment\\da4ed369bece685f3b962d524569d3fb.pdf"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\0607e075-8f0e-4d09-a238-d5b0914bd630.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\0607e075-8f0e-4d09-a238-d5b0914bd630.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\07e2248c-46b3-4885-86a7-c2a08198bdee.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\07e2248c-46b3-4885-86a7-c2a08198bdee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\08ca1e6b-8ebf-4f96-925e-5b44e5578ac2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\08ca1e6b-8ebf-4f96-925e-5b44e5578ac2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\1f3bd342943f7b8156b33b3498f98f6c.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\1f3bd342943f7b8156b33b3498f98f6c.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\4dc366f2ac9a8beac3232ba9443b0d57.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\4dc366f2ac9a8beac3232ba9443b0d57.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\603baf1d-8121-47a2-bed4-48a2000ead7b.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\603baf1d-8121-47a2-bed4-48a2000ead7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\647e191728440cecde9bd7922c851ced.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\647e191728440cecde9bd7922c851ced.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\7bd665f9-360c-469b-8cd4-fc7abbf8595f.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\7bd665f9-360c-469b-8cd4-fc7abbf8595f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\a626bf688ea55c12b46efeddf83de274.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\a626bf688ea55c12b46efeddf83de274.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\b71a519423cdd7ef6c65079f05aaaccd.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\b71a519423cdd7ef6c65079f05aaaccd.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\b9c5e12b18f2899a979e5f5e4b4a68ec.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\b9c5e12b18f2899a979e5f5e4b4a68ec.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\bb638d5e46bd97ed25dd001359b36bdb.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\bb638d5e46bd97ed25dd001359b36bdb.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\bf000035e486e6abf31d122d723bd6c0.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\bf000035e486e6abf31d122d723bd6c0.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\c74d5534-ba4f-4d2c-8b95-a6d2c2b88385.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\c74d5534-ba4f-4d2c-8b95-a6d2c2b88385.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\car.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\d2d404217200470b798af01117a4bf90.png",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\d2d404217200470b798af01117a4bf90.png"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\moto.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\moto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\customer-assets\\uploads\\product\\truck.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\uploads\\product\\truck.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bahat\\Downloads\\CarInsuranceManage\\wwwroot\\images\\b26c97be-dc66-4d6e-89d3-6ee3a294140d.webp",
+      "PackagePath": "staticwebassets\\images\\b26c97be-dc66-4d6e-89d3-6ee3a294140d.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarInsuranceManage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarInsuranceManage.props",
+      "PackagePath": "build\\CarInsuranceManage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarInsuranceManage.props",
+      "PackagePath": "buildMultiTargeting\\CarInsuranceManage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarInsuranceManage.props",
+      "PackagePath": "buildTransitive\\CarInsuranceManage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

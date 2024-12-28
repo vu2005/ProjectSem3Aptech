@@ -1,0 +1,117 @@
+.social-btn {
+  margin: 10px 5px;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.social-btn img {
+  transition: transform 0.2s ease-in-out;
+}
+
+.social-btn img:hover {
+  transform: scale(1.1);
+}
+.eye-icon {
+  position: relative;
+  cursor: pointer;
+}
+
+.eye-icon::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 2px;
+  height: 100%;
+  background: black;
+  transform: translate(-50%, -50%) rotate(45deg);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.eye-icon.active::after {
+  opacity: 1;
+}
+.box-bill {
+  background-color: #f4f9fe;
+  border-radius: 10px;
+  position: sticky;
+  top: 100px;
+  margin-left: 100px;
+  padding: 20px;
+}
+
+.form {
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+.infomatinon {
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid gray;
+  margin-right: 20px;
+}
+
+.coupon {
+  margin-top: 10px;
+}
+
+.code {
+  margin-top: 10px;
+}
+
+.forminput {
+  color: gray;
+  width: 260px;
+  height: 50px;
+  padding-left: 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.apply {
+  width: 100px;
+  height: 50px;
+  background-color: #3e96ee;
+  color: white;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: all 0.8s ease;
+}
+
+.apply:hover {
+  background-color: #002448;
+  color: white;
+  /* transform: scale(1.1); */
+}
+
+.total-bill {
+  padding: 20px;
+}
+
+.total {
+  color: #3e96ee;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.currency-text {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.monny-text {
+  font-size: 30px;
+  font-weight: 600;
+  padding-left: 10px;
+}
+
+.year-text {
+  padding-left: 10px;
+  font-weight: 500;
+  font-size: 20px;
+}

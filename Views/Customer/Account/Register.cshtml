@@ -1,0 +1,94 @@
+<section class="page-title">
+  <div class="background-container">
+    <img class="left-image" src="~/customer-assets/images/background/header-left-bg.png" alt="" />
+    <img class="right-image" src="~/customer-assets/images/background/2.jpg" alt="" />
+  </div>
+  <div class="service-container">
+    <div class="section-icons-outer parallax-scene-1">
+      <div data-depth="0.20" class="pattern-layer"
+        style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-8.png")')">
+      </div>
+    </div>
+
+    <div class="auto-container">
+      <h1>Register</h1>
+      <ul class="page-breadcrumb">
+        <li>Account</li>
+        <li>Register</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<!-- End Page Title -->
+
+<!-- Login Section -->
+<section class="login-section style-two">
+  <div class="auto-container">
+    <div class="login-box">
+      <div class="section-icons-outer parallax-scene-2">
+        <div data-depth="0.20" class="icon-layer-one"
+          style="background-image: url('@Url.Content("~/customer-assets/images/icons/icon-1.png")')">
+        </div>
+        <div data-depth="0.40" class="icon-layer-two"
+          style="background-image: url('@Url.Content("~/customer-assets/images/background/pattern-4.png")')"></div>
+      </div>
+      <!-- Sec Title -->
+      <div class="title-box">
+        <h2>Register</h2>
+        <div class="text">
+          Please register to become a member of Carsore <3 </div>
+        </div>
+      @{
+        var warningMessage = TempData["WarningMessage"] as string;
+        var successMessage = TempData["Message"] as string;
+      }
+
+      @if (!string.IsNullOrEmpty(warningMessage))
+      {
+          <div class="alert alert-warning">
+          @warningMessage
+          </div>
+      }
+
+        <!-- Form Box -->
+        <div class="form-box">
+          <!-- Login Form -->
+          <div class="styled-form">
+            <form method="post" asp-action="Register" asp-controller="RegisterDB">
+              <div class="form-group">
+                <label>Enter your Email</label>
+                <span class="icon flaticon-envelope"></span>
+                <input type="email" name="email" placeholder="Email" required />
+              </div>
+              <div class="form-group">
+                <label>Enter your Username</label>
+                <span class="icon flaticon-user"></span>
+                <input type="text" name="username" placeholder="Username" required />
+              </div>
+              <div class="form-group">
+                <label>Enter your Password</label>
+                <span class="icon flaticon-padlock-1"></span>
+                <input type="password" name="password" id="input-pass" placeholder="Password" required />
+                <span class="eye-icon flaticon-eye" id="show-pass"></span>
+              </div>
+              <div class="form-group">
+                <label>Re-enter your Password</label>
+                <span class="icon flaticon-padlock-1"></span>
+                <input type="password" name="confirmPassword" id="input-confirm-pass" placeholder="Confirm Password"
+                  required />
+                <span class="eye-icon flaticon-eye" id="show-confirm-pass"></span>
+              </div>
+              <div class="form-group">
+                <button type="submit" class="theme-btn btn-style-one">Register</button>
+              </div>
+            </form>
+            <div class="form-group">
+              <p>Already have an account? <a asp-action="Login" asp-controller="Account">Login here</a></p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+@await Html.PartialAsync("_SendMail")

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Helvetica Vn';
+    src: url('HelveticaVn-Roman.woff2') format('woff2'),
+        url('HelveticaVn-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Vn';
+    src: url('HelveticaVn-Bd.woff2') format('woff2'),
+        url('HelveticaVn-Bd.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Vn';
+    src: url('HelveticaVn-Blk.woff2') format('woff2'),
+        url('HelveticaVn-Blk.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Vn';
+    src: url('HelveticaVn-Md.woff2') format('woff2'),
+        url('HelveticaVn-Md.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
